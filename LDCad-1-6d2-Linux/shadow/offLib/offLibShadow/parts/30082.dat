@@ -1,0 +1,6 @@
+0 LDCad info for "Arm Piece with Towball and Clip"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 7] [pos=0 0 10]
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [pos=0 0 -10]

@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Differential with One Gear 28 Tooth Bevel"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 6   R 8 2   R 10 3   R 20 7] [slide=true] [pos=0 0 30] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 6   R 8 2   R 10 3   R 20 7] [slide=true] [pos=0 0 -30] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 10] [slide=true] [pos=0 -20 0] [ori=1 0 0 0 -1 0 0 0 -1]

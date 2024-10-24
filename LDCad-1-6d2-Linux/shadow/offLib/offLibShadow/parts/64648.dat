@@ -1,0 +1,6 @@
+0 LDCad info for "Animal Fish Straight"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4   R 3 20] [pos=0 0 -4] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 12.5] [pos=0 0 34] [ori=1 0 0 0 0 1 0 -1 0]

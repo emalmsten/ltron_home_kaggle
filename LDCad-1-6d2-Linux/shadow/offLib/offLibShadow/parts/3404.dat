@@ -1,0 +1,6 @@
+0 LDCad info for "Turntable  4 x  4 Top"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 4   R 6 18] [pos=0 -4 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 10 11   _L 11 4] [pos=0 3 0] [ori=1 0 0 0 -1 0 0 0 -1]

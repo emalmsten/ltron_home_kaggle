@@ -1,0 +1,10 @@
+0 LDCad info for "Slope Brick Round  3 x  8 x  2 Right"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 14] [pos=0 48 -110]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 48 -130]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 17] [pos=0 24 0] [grid=1 C 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [pos=-20 24 0] [grid=1 C 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-40 24 0] [grid=1 C 2 0 20]

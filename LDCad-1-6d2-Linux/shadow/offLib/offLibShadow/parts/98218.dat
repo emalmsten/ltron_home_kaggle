@@ -1,0 +1,7 @@
+0 LDCad info for "Duplo Plate  4 x  4 Corner Round"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [pos=0 24 20] [grid=C 4 C 3 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [pos=-20 24 -60] [grid=C 3 1 40 0]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 1 0 1 0 -1 0 0]

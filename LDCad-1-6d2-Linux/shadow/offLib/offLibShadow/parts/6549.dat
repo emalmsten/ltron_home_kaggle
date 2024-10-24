@@ -1,0 +1,9 @@
+0 LDCad info for "Technic 4 Speed Shift Lever"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 18   A 6 50] [slide=true] [pos=0 -11 0]
+
+0 //Handle sphere (smame radius as 6631)
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 14] [match=size] [placement=free]

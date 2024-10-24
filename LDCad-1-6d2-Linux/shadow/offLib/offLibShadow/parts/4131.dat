@@ -1,0 +1,6 @@
+0 LDCad info for "Door  2 x  4 x  5"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=F] [seq=1.2 104 1.2] [radius=2.5] [pos=0 52 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

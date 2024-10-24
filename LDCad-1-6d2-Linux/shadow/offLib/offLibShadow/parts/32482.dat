@@ -1,0 +1,6 @@
+0 LDCad info for "Constraction Limb  7 Bent 33"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=M] [bounding=sph 12.7] [match=size] [placement=free] [pos=0 0 -40]
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=M] [bounding=sph 12.7] [match=size] [placement=free] [pos=0 30 82]

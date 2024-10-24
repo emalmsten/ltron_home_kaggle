@@ -1,0 +1,5 @@
+0 LDCad info for "Technic Transmission Driving Ring"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=drivingRing1] [gender=F] [caps=none] [secs=A 10 11   _L 9 8   A 10 2   _L 9 8   A 10 11] [center=true] [ori=0 0 -1 1 0 0 0 -1 0]

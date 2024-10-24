@@ -1,0 +1,9 @@
+0 LDCad info for "Jack Base"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-25 0 0] [grid=4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-25 0 0] [grid=1 C 2 0 40]
+0 !LDCAD SNAP_FGR [group=jack] [genderOfs=F] [seq=1 12 1] [radius=2.5] [pos=-25 -10.5 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_FGR [group=jack] [genderOfs=F] [seq=1 12 1] [radius=2.5] [pos=-35 -15.5 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self] [inheritable=true]

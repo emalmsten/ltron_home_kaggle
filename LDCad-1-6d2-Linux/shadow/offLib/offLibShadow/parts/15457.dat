@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Worm Gear 3L with Bush Ends"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 20   R 3 20   A 6 20] [center=true] [slide=true] [ori=1 0 0 0 0 1 0 -1 0]

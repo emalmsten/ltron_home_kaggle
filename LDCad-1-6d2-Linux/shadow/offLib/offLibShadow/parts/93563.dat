@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Hair Mohawk"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //aStud is not wanted here, stud 4 should be the only candidate
+0 !LDCAD SNAP_CLEAR [ID=aStud]

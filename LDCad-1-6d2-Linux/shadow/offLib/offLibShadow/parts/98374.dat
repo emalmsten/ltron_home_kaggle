@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Pot Small with Handle Holders"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 4 0]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=1 26 1] [radius=1.5] [pos=0 -23.5 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 4] [ori=1 0 0 0 -1 0 0 0 -1]

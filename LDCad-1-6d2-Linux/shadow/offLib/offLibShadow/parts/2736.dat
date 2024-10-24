@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Axle Towball"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 2   A 6 17] [slide=true] [pos=-2 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 8] [match=size] [placement=free] [pos=-12 0 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

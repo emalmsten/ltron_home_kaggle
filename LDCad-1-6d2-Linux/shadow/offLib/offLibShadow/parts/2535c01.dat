@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Cannon Shooting Barrel and Breech"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 14] [pos=-16 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 14] [pos=16 0 0] [ori=0 -1 0 -1 0 0 0 0 -1]

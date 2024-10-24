@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Engine Piston Round"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 8] [match=size] [placement=free]
+0 !LDCAD SNAP_CYL [group=techEngine] [gender=M] [caps=none] [secs=R 12 24] [slide=true] [pos=0 8 0]

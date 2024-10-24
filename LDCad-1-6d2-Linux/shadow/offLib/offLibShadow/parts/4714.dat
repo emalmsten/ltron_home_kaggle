@@ -1,0 +1,9 @@
+0 LDCad info for "Minifig Stretcher with Bottom Hinges"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 3 C 2 20 20]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=4] [radius=4] [pos=-40 12 14] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=4] [radius=4] [pos=-40 12 -14] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=4] [radius=4] [pos=40 12 14] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=4] [radius=4] [pos=40 12 -14] [ori=0 0 -1 1 0 0 0 -1 0]

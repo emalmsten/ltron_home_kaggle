@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Differential Casing for 5 Internal Gears"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 18] [pos=0 0 -10] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_GEN [group=diffHouse] [gender=M] [bounding=sph 25] [pos=0 0 37] [ori=0 0 -1 1 0 0 0 -1 0]

@@ -1,0 +1,5 @@
+0 LDCad info for "Train Coupling Type 2"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=magnet] [genderOfs=F] [seq=4 32 4] [radius=2] [pos=0 4 -32] [ori=0 1 0 -1 0 0 0 0 1]

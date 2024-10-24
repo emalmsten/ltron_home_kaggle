@@ -1,0 +1,6 @@
+0 LDCad info for "Container Minifig Coffin Lid with Mummy Relief (Needs Work)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=coffin] [gender=F] [bounding=box 40 70 10] [pos=0 20 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 10 -72] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 2 1 20 0]

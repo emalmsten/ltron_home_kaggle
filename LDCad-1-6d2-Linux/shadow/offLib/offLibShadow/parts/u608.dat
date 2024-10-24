@@ -1,0 +1,6 @@
+0 LDCad info for "Brick  1 x  4 x  2 Bellshaped"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=S 6 8   R 5 2   R 4 8] [pos=0 48 0] [grid=C 2 1 60 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=S 6 44] [pos=0 48 0] [grid=C 2 1 20 0]

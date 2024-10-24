@@ -1,0 +1,9 @@
+0 LDCad info for "~Animal Octopus - Half"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 48 -10] [grid=1 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=50 48 10]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=10 0 10]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=15 12 -12.5] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 9] [pos=19 12 -12.5] [ori=0 1 0 -1 0 0 0 0 1]

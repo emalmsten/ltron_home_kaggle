@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Action Figure Hand"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 4   R 3 4   _L 3.399999999999999 2] [pos=0 0 9] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CLP [radius=6] [length=10] [center=true]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

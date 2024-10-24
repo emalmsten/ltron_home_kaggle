@@ -1,0 +1,9 @@
+0 LDCad info for "~Rotation Joint Ball Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Hole
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true]
+
+0 //click pin
+0 !LDCAD SNAP_CYL [group=clkRot] [gender=M] [caps=one] [secs=R 9.5 5] [pos=0 5 0] [ori=1 0 0 0 -1 0 0 0 -1]

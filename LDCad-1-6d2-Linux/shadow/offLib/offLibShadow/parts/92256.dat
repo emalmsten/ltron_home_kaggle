@@ -1,0 +1,9 @@
+0 LDCad info for "Figure Friends Hair Long Wavy"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //top
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 9] [slide=true] [pos=0 -10.5 0.86] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //side
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 5] [slide=true] [pos=-17.8 3.55 2.45] [ori=0 -1 0 1 0 0 0 0 1]

@@ -1,0 +1,10 @@
+0 LDCad info for "Technic Connector Toggle Joint Toothed With No Slots"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //NOTE: needs a better solution for the tooths at some point
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 20] [slide=true] [pos=0 0 10] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [slide=true] [pos=-10 0 -20] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

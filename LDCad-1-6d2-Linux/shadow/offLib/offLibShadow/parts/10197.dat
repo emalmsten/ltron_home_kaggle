@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Axle and Pin Connector Hub with 2 Axles at 90 Degrees"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [id=axle]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 20] [slide=true] [pos=0 -10 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 20] [slide=true] [pos=0 0 -10] [ori=1 0 0 0 0 -1 0 1 0]

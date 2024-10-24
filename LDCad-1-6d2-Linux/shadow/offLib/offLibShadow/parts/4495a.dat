@@ -1,0 +1,6 @@
+0 LDCad info for "Flag  4 x  1 with First Wave Left"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 24   R 6 4] [pos=0 -4 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 4] [pos=0 20 0] [ori=1 0 0 0 -1 0 0 0 -1]

@@ -1,0 +1,6 @@
+0 LDCad info for "Animal Scorpion"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5   R 4 7] [pos=0 16 0] [ori=-1 0 0 0 1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 12] [pos=0 2 32]

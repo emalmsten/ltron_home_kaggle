@@ -1,0 +1,10 @@
+0 LDCad info for "~Technic Panel Fairing Smooth Wide Subpart"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   _L 6.5 2] [pos=-20 -60 -10] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [pos=-20 -30 -10] [ori=1 0 0 0 0 1 0 -1 0] [grid=1 C 4 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   _L 8 2] [pos=-20 -80 -10] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   _L 6.5 23] [pos=0 0 -10] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   S 6.5 2] [pos=0 10 60] [grid=1 C 3 0 20]

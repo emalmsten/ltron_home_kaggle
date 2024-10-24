@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Connector Toggle Joint Double with Axle and Pin Holes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [id=axleHole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 20] [slide=true] [grid=1 C 2 0 40]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true] [pos=0 -40 -25] [ori=1 0 0 0 0 1 0 -1 0] [grid=1 C 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true] [pos=0 -40 25] [ori=1 0 0 0 0 1 0 -1 0] [grid=1 C 2 0 20]

@@ -1,0 +1,7 @@
+0 LDCad info for "~Tile  2 x  3 with Clips Horizontal (Thick U-Clips) without Top"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 2 C 3 20 20]
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [pos=6 2 40] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [pos=-14 2 40] [ori=0 -1 0 -1 0 0 0 0 -1]

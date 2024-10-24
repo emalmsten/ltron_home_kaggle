@@ -1,0 +1,5 @@
+0 LDCad info for "Plate  6 x 12 with 22 Studs on Three Edges"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0] [grid=C 12 C 6 20 20]

@@ -1,0 +1,6 @@
+0 LDCad info for "Stud Duplo Open without Base Edge"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 12 4] [scale=YOnly]
+0 !LDCAD SNAP_CYL [gender=F] [caps=A] [secs=R 9 4] [scale=YOnly]

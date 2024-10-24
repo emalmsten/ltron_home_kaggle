@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Action Figure Helmet Visor (Needs Work)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //tmp info as there is currently no helmet to connect to
+0 !LDCAD SNAP_GEN [group=techFigVis] [gender=F] [bounding=cyl 8 24] [ori=0 1 0 0 0 1 1 0 0]

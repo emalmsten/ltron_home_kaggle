@@ -1,0 +1,8 @@
+0 LDCad info for "Minifig Lightsaber Hilt with Bottom Ring"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 6 5   R 8 5   R 4 13.5   R 5 2   R 4 2   R 5 2   R 4 2   R 8 4.5   R 6 4] [pos=0 36 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 7] [slide=true] [pos=0 -4 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 7] [slide=true] [pos=0 36 0] [ori=-1 0 0 0 1 0 0 0 -1]

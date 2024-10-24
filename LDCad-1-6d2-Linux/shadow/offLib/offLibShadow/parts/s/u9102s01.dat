@@ -1,0 +1,9 @@
+0 LDCad info for "~Figure Fabuland Torso Half without Front"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4   R 5 8.5] [slide=true] [pos=-23 -26 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 10] [match=size] [placement=free] [pos=0 -30 0] [mirror=none]
+0 !LDCAD SNAP_GEN [group=fabHipBar] [gender=F] [bounding=sph 15] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [group=fabLeg] [gender=F] [bounding=box 10 10 10] [pos=-10 0 0]
+0 !LDCAD SNAP_GEN [group=fabLeg] [gender=F] [bounding=box 10 10 10] [pos=10 0 0]

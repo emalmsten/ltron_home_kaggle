@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Double Flexible Fixing Pin"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 2   R 6 16   _L 6.5 4   R 6 37] [slide=true] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 0 40]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Ball Joint with Axlehole Blind without Top"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 15.25] [slide=true] [pos=0 9.25 0]

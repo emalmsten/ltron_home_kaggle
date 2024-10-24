@@ -1,0 +1,10 @@
+0 LDCad info for "Technic Plate  2 x  6 with 2 Position Gear Shift Gate"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Antistuds
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -40] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 40] [grid=C 2 C 2 20 20]
+
+0 //Hole
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 6   R 8 2] [slide=true] [pos=20 18 0] [ori=0 1 0 -1 0 0 0 0 1]

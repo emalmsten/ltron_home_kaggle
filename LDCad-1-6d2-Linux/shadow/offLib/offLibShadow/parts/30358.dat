@@ -1,0 +1,9 @@
+0 LDCad info for "Tile  2 x  2 with Jet Engine"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 96] [slide=true] [pos=0 -38 -40] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //barrel snap
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 16 4] [pos=0 8 0]

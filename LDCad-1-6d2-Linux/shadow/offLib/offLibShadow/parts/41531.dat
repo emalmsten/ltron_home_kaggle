@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Cylinder  4 x  4 x  2 with 3 Pin Holes and Center Bar"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 8 2   R 6 16   R 8 4   R 6 8] [slide=true] [pos=40 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 8 2   R 6 16   R 8 4   R 6 8] [slide=true] [pos=-40 0 0] [ori=0 -1 0 1 0 0 0 0 1]

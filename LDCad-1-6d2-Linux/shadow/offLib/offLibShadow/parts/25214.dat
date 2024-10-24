@@ -1,0 +1,8 @@
+0 LDCad info for "Cylinder  2 x  2 Elbow with Axle Holes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 16] [slide=true] [pos=-30 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 16] [slide=true] [pos=0 0 30] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 1 0 1 0 -1 0 0]

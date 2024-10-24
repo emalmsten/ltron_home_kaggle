@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Beam  7 Offset Liftarm with 24 Tooth Gears"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=10 0 20] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=-10 0 -20] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD MIRROR_INFO [baseFlip=Y]

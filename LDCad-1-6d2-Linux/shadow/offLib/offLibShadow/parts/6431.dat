@@ -1,0 +1,10 @@
+0 LDCad info for "Duplo Building Wall  4 x  8 x  6 with Open Back and Door and Window Opening"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [pos=0 288 0] [grid=C 8 C 4 40 40]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [center=true] [pos=-139.5 114 -75]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [center=true] [pos=-139.5 176 -75]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [center=true] [pos=-140.5 238 -75]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [center=true] [pos=139.5 176 -75]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [center=true] [pos=139.5 114 -75]

@@ -1,0 +1,7 @@
+0 LDCad info for "~Electric Mindstorms EV3 Large Motor Back"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [id=connhole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=0 -40 -20] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 3 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=0 40 -20] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 3 1 20 0]

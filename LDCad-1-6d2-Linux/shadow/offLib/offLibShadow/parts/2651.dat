@@ -1,0 +1,8 @@
+0 LDCad info for "Hinge Hook Arm"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //needs a rectangle but it only has one connecting thing so pairing by group will do nicly for now.
+0 !LDCAD SNAP_CYL [group=hngHook] [gender=M] [caps=one] [secs=S 6 54.5] [slide=true] [pos=6 -1 0] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self] [inheritable=true]

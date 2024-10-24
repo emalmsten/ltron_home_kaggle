@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Steering Arm 3H with Towball Sockets"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 8] [match=size] [placement=free] [pos=24 0 1]
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 8] [match=size] [placement=free] [pos=0 -20 0]
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 8] [match=size] [placement=free] [pos=0 20 0]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=-1 0 0 0 -1 0 0 0 1]

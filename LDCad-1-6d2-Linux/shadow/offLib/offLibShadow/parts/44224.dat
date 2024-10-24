@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Beam  3 with Rotation Joint 3 Socket"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //NOTE needs meta extensions concerning the click rotation stuff
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 9 4   R 8 10] [slide=true] [pos=0 10 0]
+
+0 //Conholes
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 60] [grid=1 C 3 0 20]

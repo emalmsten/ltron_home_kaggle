@@ -1,0 +1,9 @@
+0 LDCad info for "Figure Friends Hair Short, Bob Cut"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //top
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 10] [slide=true] [pos=0 -11.2 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //side
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 6] [slide=true] [pos=-19 4.2 2.2] [ori=0 -1 0 1 0 0 0 0 1]

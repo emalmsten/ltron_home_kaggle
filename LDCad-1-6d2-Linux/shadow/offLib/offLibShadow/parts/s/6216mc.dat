@@ -1,0 +1,6 @@
+0 LDCad info for "~Electric Technic Motor  4.5V Shaft"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 3   R 2.5 5   A 6 11] [slide=true] [pos=0 26 -40] [ori=1 0 0 0 0 -1 0 1 0]

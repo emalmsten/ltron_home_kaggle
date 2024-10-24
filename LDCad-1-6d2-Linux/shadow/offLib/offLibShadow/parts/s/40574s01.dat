@@ -1,0 +1,7 @@
+0 LDCad info for "~Electric Spybotic Brick Chassis Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 12] [pos=70 22 -160] [grid=1 C 4 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 16] [pos=70 30 0] [grid=1 C 4 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=50 30 0] [ori=-1 0 0 0 1 0 0 0 -1] [grid=3 C 4 20 20]

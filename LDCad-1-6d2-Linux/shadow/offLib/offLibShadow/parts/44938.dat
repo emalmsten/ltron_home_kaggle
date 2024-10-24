@@ -1,0 +1,7 @@
+0 LDCad info for "Constraction Shield  5 x  5 with Gear Tips"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=0 -20 40] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 20] [slide=true] [ori=-1 0 0 0 -1 0 0 0 1]

@@ -1,0 +1,8 @@
+0 LDCad info for "Duplo Gearbox"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [grid=C 4 C 2 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 9 20] [pos=60 -72 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 9 20] [pos=-60 -72 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 9 20   R 24 40   R 9 20] [center=true] [pos=0 -168 0] [ori=0 0 -1 1 0 0 0 -1 0]

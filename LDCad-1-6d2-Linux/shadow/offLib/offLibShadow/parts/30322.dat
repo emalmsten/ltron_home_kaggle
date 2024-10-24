@@ -1,0 +1,6 @@
+0 LDCad info for "Antenna  8H with Flag"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=R 8 8   R 4 24   R 2 120] [slide=true] [pos=0 8 0]

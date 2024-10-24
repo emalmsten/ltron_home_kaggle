@@ -1,0 +1,6 @@
+0 LDCad info for "Plate  2 x  2 with 2 Wheel Clips Angled"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLP [radius=2] [length=4] [center=true] [pos=10 21 20] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CLP [radius=2] [length=4] [center=true] [pos=-10 21 20] [ori=0 -1 0 1 0 0 0 0 1]

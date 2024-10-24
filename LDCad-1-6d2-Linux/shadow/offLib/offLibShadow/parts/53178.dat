@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Pneumatic Cylinder Bracket"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 // 1/2 conholes on top
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   A 6 6   R 8 2] [pos=0 -10 0] [grid=1 C 2 0 20]
+
+0 // connhole in center
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=0 -1 0 1 0 0 0 0 1]

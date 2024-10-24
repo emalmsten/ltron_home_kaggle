@@ -1,0 +1,6 @@
+0 LDCad info for "Hinge Brick  1 x  2 Locking with Dual Finger on End Horizontal"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=30 10 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

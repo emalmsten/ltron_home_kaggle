@@ -1,0 +1,6 @@
+0 LDCad info for "~Slope Brick  2 x  4 Triple Left Without Stud"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 24 -30] [grid=1 C 4 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=20 24 -10] [grid=1 C 2 0 20]

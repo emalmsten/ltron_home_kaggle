@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Jackhammer"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //NOTE: pos/ori is vis approx
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 16] [pos=-11.822 8.408 1.576] [ori=0.275 0.911 0.308 -0.955 0.296 -0.022 -0.111 -0.288 0.951]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 16] [pos=11.822 8.408 1.576] [ori=0.215 -0.911 0.308 0.951 0.288 0.111 0.275 -0.308 -0.911]

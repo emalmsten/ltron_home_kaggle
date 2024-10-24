@@ -1,0 +1,5 @@
+0 LDCad info for "~Electric Contact Port Double with Socket"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=elec] [gender=F] [caps=one] [secs=R 3.5 14.5] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 2 1 35 0]

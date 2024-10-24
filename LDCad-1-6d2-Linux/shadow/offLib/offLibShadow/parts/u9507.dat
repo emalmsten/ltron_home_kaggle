@@ -1,0 +1,7 @@
+0 LDCad info for "~Duplo Train Engine Hood  2 x  2 - Top"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //TODO: Pin radius seems wrong, confirm/fix later
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 14 20] [slide=true] [pos=0 40 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 10 20] [pos=0 60 0] [ori=-1 0 0 0 1 0 0 0 -1]

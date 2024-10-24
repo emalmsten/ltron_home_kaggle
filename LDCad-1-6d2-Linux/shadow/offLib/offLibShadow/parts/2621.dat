@@ -1,0 +1,9 @@
+0 LDCad info for "Boat Bow Plate 10 x  9"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -80] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -60] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -30] [grid=C 6 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 20] [grid=C 8 C 3 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 70] [grid=C 10 C 2 20 20]

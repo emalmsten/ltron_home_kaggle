@@ -1,0 +1,7 @@
+0 LDCad info for "~Boat Base  8 x 10 - Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=-70 24 50] [grid=1 C 3 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=-50 24 0] [grid=1 C 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=-30 24 -30]

@@ -1,0 +1,7 @@
+0 LDCad info for "Stud Open"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //This includes the radius 4 hole as it will never be used as part of a deeper structure.
+0 !LDCAD SNAP_CYL [ID=studO] [gender=M] [caps=one] [secs=R 6 4]
+0 !LDCAD SNAP_CYL [ID=studO] [gender=F] [caps=one] [secs=R 4 4] [pos=0 -4 0] [ori=1 0 0 0 -1 0 0 0 -1]

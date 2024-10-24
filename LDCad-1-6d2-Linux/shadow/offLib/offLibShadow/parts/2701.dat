@@ -1,0 +1,12 @@
+0 LDCad info for "Technic Action Figure Arm Bearing"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //hole
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 2.5 8] [center=true] [slide=true]
+
+0 //pin
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 3 4   _L 3.399999999999999 2] [pos=0 0 9.5] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //elbow
+0 !LDCAD SNAP_FGR [group=techFigElbw] [genderOfs=M] [seq=8] [radius=9.5]

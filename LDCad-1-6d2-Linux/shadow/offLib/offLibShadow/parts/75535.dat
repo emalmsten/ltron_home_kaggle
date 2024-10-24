@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Pin Joiner Round"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 4   R 6 16   R 8 2] [center=true] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

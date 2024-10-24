@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Pneumatic Cylinder  1 x  5 with  2 Ports Body"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [group=pneuCyl] [gender=F] [caps=one] [secs=R 8 56] [slide=true] [pos=0 -66 0] [ori=1 0 0 0 -1 0 0 0 -1]

@@ -1,0 +1,6 @@
+0 LDCad info for "Electric Mindstorms RCX Module"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2] [pos=-80 26 -10] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 0 100]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2] [pos=80 26 -10] [ori=0 1 0 -1 0 0 0 0 1] [grid=1 C 2 0 100]

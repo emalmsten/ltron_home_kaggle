@@ -1,0 +1,6 @@
+0 LDCad info for "~Duplo Train Track Straight  4 x  8 (Half)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [pos=0 24 20] [grid=C 4 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [pos=0 24 140] [grid=C 4 1 40 0]

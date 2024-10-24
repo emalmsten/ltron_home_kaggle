@@ -1,0 +1,5 @@
+0 LDCad info for "Propeller  2 Blade  4 Diameter Helicopter Tail"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 3   R 7.5 9.75   _L 8 3.25] [pos=36 -8 0] [ori=0 -1 0 1 0 0 0 0 1]

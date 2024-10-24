@@ -1,0 +1,6 @@
+0 LDCad info for "Constraction Connector  2 x  2 with Double Reinforced Ball Sockets"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=F] [bounding=sph 12.7] [match=size] [placement=free] [pos=0 0 -20]
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=F] [bounding=sph 12.7] [match=size] [placement=free] [pos=0 0 20]

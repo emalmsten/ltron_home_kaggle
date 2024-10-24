@@ -1,0 +1,11 @@
+0 LDCad info for "Brick  2 x  2 with Ball Joint and Axlehole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //inherit from 2x2 ribbed round brick, weird but it has the same basic snap info
+0 !LDCAD SNAP_INCL [ref=92947.dat]
+
+0 //Ball
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=M] [bounding=sph 12.7] [match=size] [placement=free] [pos=40 10 0]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

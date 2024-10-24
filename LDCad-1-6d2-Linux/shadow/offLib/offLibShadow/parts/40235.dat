@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Headdress Turban"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //TODO: needs preciese pos, also  1.75 seems to small for any practical connections
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 9.75] [pos=0 -3.75 -18] [ori=1 0 0 0 0 1 0 -1 0]

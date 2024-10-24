@@ -1,0 +1,6 @@
+0 LDCad info for "~Electric Train Motor  9V Top Cover"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [ID=conn4]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 12   _L 6.5 2] [slide=true]

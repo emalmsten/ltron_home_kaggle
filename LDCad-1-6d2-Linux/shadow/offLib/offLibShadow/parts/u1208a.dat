@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Axle Adaptor Metal Short"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 8 1   A 6 20   R 3 20] [slide=true] [pos=-21 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

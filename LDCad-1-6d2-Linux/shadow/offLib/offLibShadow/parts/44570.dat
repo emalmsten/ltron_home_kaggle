@@ -1,0 +1,7 @@
+0 LDCad info for "Hinge Car Roof  4 x  4 Locking"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -20] [grid=C 4 C 2 20 20]
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=-20 2 30] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=20 2 30] [ori=0 -1 0 1 0 0 0 0 1]

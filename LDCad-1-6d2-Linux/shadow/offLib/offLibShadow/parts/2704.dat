@@ -1,0 +1,12 @@
+0 LDCad info for "Technic Action Figure Leg Lower"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //knee
+0 !LDCAD SNAP_FGR [group=techFigKnee] [genderOfs=M] [seq=6 8 6] [radius=9] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //foot
+0 !LDCAD SNAP_GEN [group=techFigFoot] [gender=F] [bounding=sph 5] [pos=0 40 0]
+
+0 //holes
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 20 0] [ori=0 1 0 0 0 1 1 0 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Connector Toggle Joint Smooth Double with 2 Pins"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true] [pos=0 -5 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true] [pos=0 -30 25] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true] [pos=0 -30 -25] [ori=1 0 0 0 0 1 0 -1 0]

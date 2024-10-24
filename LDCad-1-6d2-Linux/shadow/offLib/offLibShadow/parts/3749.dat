@@ -1,0 +1,10 @@
+0 LDCad info for "Technic Axle Pin"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Reset to dump stuff inherited from primitives
+0 !LDCAD SNAP_CLEAR 
+0 //Redo the whole shape as a single cyl
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=L_ 6.25 2   R 6 16   R 8 2   A 6 20] [center=true] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]
+0 //Def x is not symmetric
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

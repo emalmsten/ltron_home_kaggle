@@ -1,0 +1,6 @@
+0 LDCad info for "~Door  1 x  4 x  6 with 3 Panes and Stud Handle - Frame"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=M] [seq=132] [radius=4] [pos=0 70 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self] [inheritable=true]

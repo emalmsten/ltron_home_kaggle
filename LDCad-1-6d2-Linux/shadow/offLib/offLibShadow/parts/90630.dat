@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Cross Block  1 x  3 (Pin/Dimple/Pin) with 2 Pins and 2 Ball Joints"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 13] [placement=free] [pos=20 0 -20]
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 13] [placement=free] [pos=20 0 20]

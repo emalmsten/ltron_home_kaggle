@@ -1,0 +1,7 @@
+0 LDCad info for "Brick  2 x  2 with Ball Socket Type 1 and Axlehole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [ID=axle]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   A 6 16] [pos=0 24 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

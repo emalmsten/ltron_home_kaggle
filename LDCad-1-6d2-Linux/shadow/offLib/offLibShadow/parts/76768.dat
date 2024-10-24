@@ -1,0 +1,6 @@
+0 LDCad info for "Arch  1 x  5 x  4 with Reinforced Tip"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 44] [pos=0 96 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 16 80]

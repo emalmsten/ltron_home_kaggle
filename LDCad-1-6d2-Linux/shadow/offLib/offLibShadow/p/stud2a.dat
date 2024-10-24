@@ -1,0 +1,8 @@
+0 LDCad info for "Stud Open without Base Edges"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Do note parts using this still need to (optionally) add the hole part of the stud.
+0 // This is not done here because in most parts it will extend beyond the stud.
+0 // Also sometimes the stud is actually part of a longer M-cyl, in such cases you should drop this one using the id and redo the whole shape.
+0 !LDCAD SNAP_CYL [ID=studO] [gender=M] [caps=one] [secs=R 6 4]

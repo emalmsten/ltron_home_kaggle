@@ -1,0 +1,8 @@
+0 LDCad info for "~Electric Power Functions XL Motor Back (Needs Work)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //We need capped connholes, drop inherited ones
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=-50 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=50 0 0] [ori=0 1 0 -1 0 0 0 0 1]

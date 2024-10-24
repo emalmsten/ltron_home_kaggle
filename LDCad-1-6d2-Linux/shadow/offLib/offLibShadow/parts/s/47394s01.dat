@@ -1,0 +1,5 @@
+0 LDCad info for "~Figure Duplo Adult Legs Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=dupFigHips] [gender=F] [caps=one] [secs=R 4 44] [center=true] [pos=0 -56 12] [ori=0 -1 0 1 0 0 0 0 1] [mirror=none]

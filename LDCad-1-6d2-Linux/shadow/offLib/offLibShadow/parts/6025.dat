@@ -1,0 +1,8 @@
+0 LDCad info for "Minifig Hair Islander"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-26 [anathema] Added snap data for top
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5]
+0 !LDCAD SNAP_CLP [radius=4] [length=14] [center=true] [pos=0 -14.3 0] [ori=0 -1 0 1 0 0 0 0 1]

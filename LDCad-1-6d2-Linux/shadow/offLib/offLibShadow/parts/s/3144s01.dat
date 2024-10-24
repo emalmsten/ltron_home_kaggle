@@ -1,0 +1,6 @@
+0 LDCad info for "~Antenna 5H with Side Spokes - Base"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 24 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=R 8 5   R 10 19   R 6 4   R 4 89] [slide=true] [pos=0 24 0]

@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Link  4 x  6 Bent 53.13"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 9 5] [pos=0 -5 0] [grid=1 2 0 100]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 9 5] [pos=48 -5 136]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 9 5] [pos=48 5 136] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 9 5] [pos=0 5 0] [ori=-1 0 0 0 -1 0 0 0 1] [grid=1 2 0 100]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

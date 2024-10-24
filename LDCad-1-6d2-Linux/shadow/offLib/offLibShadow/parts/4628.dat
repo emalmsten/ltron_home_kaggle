@@ -1,0 +1,7 @@
+0 LDCad info for "Jack Handle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 28] [center=true] [slide=true] [pos=0 -16.5 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 6] [pos=0 -34.5 4] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 6] [pos=0 -34.5 -4] [ori=-1 0 0 0 0 1 0 1 0]

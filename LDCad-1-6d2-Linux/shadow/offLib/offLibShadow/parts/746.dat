@@ -1,0 +1,6 @@
+0 LDCad info for "Roadsign Base Round Type 2"
+0 Author: Jason McReynolds [Jason McReynolds]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=A] [secs=R 2 3] [pos=0 -6 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 5 3] [pos=0 -6 0]

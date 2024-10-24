@@ -1,0 +1,6 @@
+0 LDCad info for "Plate  1 x  2 with Socket Joint-8 with Friction and Ball Joint-8"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 8] [placement=free] [pos=-30 4 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Differential with Red 28 Tooth Drive Gear and Tan Satellites"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 11   A 6 7] [pos=0 0 -30] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 11   A 6 7] [pos=0 0 30] [ori=0 0 -1 -1 0 0 0 1 0]

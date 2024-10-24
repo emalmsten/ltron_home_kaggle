@@ -1,0 +1,6 @@
+0 LDCad info for "Fabuland Hammer"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=R 4 11   R 5 1   R 4 21   R 5 1] [pos=0 22 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 26] [pos=0 -55 15] [ori=1 0 0 0 0 -1 0 1 0]

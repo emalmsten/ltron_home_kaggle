@@ -1,0 +1,9 @@
+0 LDCad info for "Barrel  2 x  2 x  1.667"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [ID=axleHole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-10 40 -10] [grid=2 2 20 20]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 16 4]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 16 4] [pos=0 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   A 6 4   R 13 36] [pos=0 40 0]

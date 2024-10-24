@@ -1,0 +1,8 @@
+0 LDCad info for "Minifig Camera with Side Sight"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=6.5 16 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 12] [pos=-19 16 0] [grid=C 3 1 11 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   R 4 31] [slide=true] [pos=32 8 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   R 4 14] [slide=true] [pos=16 -2 17.32] [ori=0 1 0 -1 0 0 0 0 1]

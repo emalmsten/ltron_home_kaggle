@@ -1,0 +1,10 @@
+0 LDCad info for "Technic Action Figure Body Connector"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //torso
+0 !LDCAD SNAP_GEN [group=techFigHips] [gender=M] [bounding=box 2 20 8] [pos=0 -20 0]
+
+0 //legs
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 4] [match=size] [placement=free] [pos=-15 17 0]
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 4] [match=size] [placement=free] [pos=15 17 0]

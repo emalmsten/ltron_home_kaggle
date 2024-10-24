@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Beam  3 with Panel Fairing Left"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //This one will be mirrored for the 61070
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 -20] [ori=0 1 0 -1 0 0 0 0 1]

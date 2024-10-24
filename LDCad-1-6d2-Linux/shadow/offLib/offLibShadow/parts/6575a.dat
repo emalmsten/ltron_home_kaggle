@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Cam with Narrow Slit and Recessed Axlehole"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 10] [slide=true] [pos=0 0 5] [ori=1 0 0 0 0 -1 0 1 0] [grid=1 3 0 10]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 10] [slide=true] [pos=0 20 5] [ori=1 0 0 0 0 -1 0 1 0]

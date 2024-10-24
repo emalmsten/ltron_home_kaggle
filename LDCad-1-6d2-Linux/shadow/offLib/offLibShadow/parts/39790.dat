@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Beam 15 x 11 with Open Center 13 x  9"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 1 0 200 0]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=0 0 -1 1 0 0 0 -1 0] [grid=1 C 2 1 0 280 0]

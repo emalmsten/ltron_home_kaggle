@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Steering Arm with Connectors"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6] [pos=-18 -30 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 6   R 8 2] [pos=10 -30 0] [ori=0 -1 0 1 0 0 0 0 1]

@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Angle Connector (3 x 120 degree)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_INCL [ref=connhole.dat]
+0 !LDCAD SNAP_CYL [gender=F] [caps=B] [secs=A 6 20] [slide=true] [pos=0 0 30] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=B] [secs=A 6 20] [slide=true] [pos=25.981 0 -15] [ori=0.5 0.8660254 0 0 0 1 0.8660254 -0.5 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=B] [secs=A 6 20] [slide=true] [pos=-25.981 0 -15] [ori=0.5 -0.8660254 0 0 0 1 -0.8660254 -0.5 0]

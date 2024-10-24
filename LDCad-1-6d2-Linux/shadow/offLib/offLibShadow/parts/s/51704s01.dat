@@ -1,0 +1,6 @@
+0 LDCad info for "~Duplo Arch  2 x 10 x  2 without Front Face"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 44] [pos=160 96 0] [grid=C 2 C 2 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 44] [pos=-160 96 0] [grid=C 2 C 2 40 40]

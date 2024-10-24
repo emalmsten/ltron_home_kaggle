@@ -1,0 +1,8 @@
+0 LDCad info for "Minifig Tool 4-Way Lug Wrench"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 11   R 2.5 7.75   R 4 7] [slide=true] [pos=4 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 11   R 2.5 7.75   R 4 7] [slide=true] [pos=0 4 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 11   R 2.5 7.75   R 4 7] [slide=true] [pos=-4 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 11   R 2.5 7.75   R 4 7] [slide=true] [pos=0 -4 0]

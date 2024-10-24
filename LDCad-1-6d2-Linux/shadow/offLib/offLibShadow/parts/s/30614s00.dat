@@ -1,0 +1,10 @@
+0 LDCad info for "~Roof  6 x  6 x  3 without Top Stud"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 72 0] [grid=C 4 C 2 20 100]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 72 0] [grid=C 2 C 4 100 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 16] [pos=0 68 0] [grid=C 2 C 2 100 100]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [pos=0 48 0] [grid=C 2 C 2 20 20]

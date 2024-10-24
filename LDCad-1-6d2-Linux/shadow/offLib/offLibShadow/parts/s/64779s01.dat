@@ -1,0 +1,8 @@
+0 LDCad info for "~Animal Cow Body Left without Patternable Areas"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 48 -20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 48 20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [group=cow] [gender=M] [caps=one] [secs=R 16 10] [pos=10 -10 -36] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [group=cow] [gender=F] [bounding=sph 25] [pos=0 4 0] [ori=0 1 0 -1 0 0 0 0 1] [mirror=none]

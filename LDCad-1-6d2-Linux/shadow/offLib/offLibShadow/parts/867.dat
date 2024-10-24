@@ -1,0 +1,6 @@
+0 LDCad info for "Wheel Train for 12V Electric Motor"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //this misuses studs, so drop them
+0 !LDCAD SNAP_CLEAR 

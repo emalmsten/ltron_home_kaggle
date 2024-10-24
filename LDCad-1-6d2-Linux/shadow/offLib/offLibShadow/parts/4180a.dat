@@ -1,0 +1,6 @@
+0 LDCad info for "~Brick  2 x  4 for Train Wheels Base"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Same as plate, but compensate for this being a brick.
+0 !LDCAD SNAP_INCL [ref=3020.dat] [pos=0 16 0]

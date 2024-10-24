@@ -1,0 +1,9 @@
+0 LDCad info for "Support  2 x 16 x  2 Girder Triangular"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [grid=C 16 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   A 6 16   R 8 8] [pos=0 24 0] [grid=C 2 1 280 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-140 24 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=140 24 0] [grid=C 2 C 2 20 20]

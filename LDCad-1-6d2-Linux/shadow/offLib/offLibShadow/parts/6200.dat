@@ -1,0 +1,7 @@
+0 LDCad info for "Belville Swing Stand"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-110 0 0] [grid=1 C 5 0 20]
+0 !LDCAD SNAP_CLP [radius=4] [length=14] [slide=false] [pos=-91 -232 0] [ori=0 -1 0 0 0 1 -1 0 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z]

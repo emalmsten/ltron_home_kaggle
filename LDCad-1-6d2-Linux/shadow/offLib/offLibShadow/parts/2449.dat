@@ -1,0 +1,9 @@
+0 LDCad info for "Slope Brick 75  2 x  1 x  3 Inverted"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 12] [pos=0 72 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 19] [pos=0 50 10] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 25] [pos=0 30 10] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 32] [pos=0 10 10] [ori=1 0 0 0 0 -1 0 1 0]

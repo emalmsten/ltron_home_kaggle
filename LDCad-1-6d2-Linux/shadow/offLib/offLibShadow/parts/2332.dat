@@ -1,0 +1,7 @@
+0 LDCad info for "Duplo Door Frame  2 x  4 x  3 with Raised Door Outline"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 16] [pos=0 144 0] [grid=C 4 C 2 40 40]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [pos=67.5 109 -48]
+0 !LDCAD SNAP_CLP [radius=2.5] [length=12] [pos=67.5 47 -48]

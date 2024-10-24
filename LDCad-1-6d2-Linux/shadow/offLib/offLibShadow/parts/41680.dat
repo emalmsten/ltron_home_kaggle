@@ -1,0 +1,12 @@
+0 LDCad info for "Technic Pin with Friction with Click Rotation Ring"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Rotation hole
+0 !LDCAD SNAP_CYL [group=clkRot] [gender=F] [caps=none] [secs=R 9.5 10] [center=true]
+
+0 //Pin
+0 !LDCAD SNAP_INCL [ref=connect.dat] [pos=20 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //Def x is not symmetric
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

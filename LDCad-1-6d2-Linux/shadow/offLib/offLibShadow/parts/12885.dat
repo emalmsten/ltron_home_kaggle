@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Paint Roller Brush Handle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 21] [pos=0 -21 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 28.5] [pos=13 -45 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD MIRROR_INFO [baseFlip=Z]

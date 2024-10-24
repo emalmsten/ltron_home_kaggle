@@ -1,0 +1,14 @@
+0 LDCad info for "Brick  2 x  2 Round without Reinforcement"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Anti studs
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 24 0] [grid=C 2 C 2 20 20]
+
+0 //Hole
+0 !LDCAD SNAP_CLEAR [id=axleHole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   A 6 20] [pos=0 24 0]
+
+0 //barrel snap
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 16 20] [pos=0 24 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 16 4] [pos=0 24 0]

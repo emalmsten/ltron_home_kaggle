@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Cap Aviator Goggles"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-22 [anathema] Changed visor snap to 'finger'
+
+0 !LDCAD SNAP_FGR [group=visor] [genderOfs=M] [seq=2 28 2] [radius=2] [ori=0 -1 0 0 0 -1 1 0 0]

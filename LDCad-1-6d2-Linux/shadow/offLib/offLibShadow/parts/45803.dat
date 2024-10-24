@@ -1,0 +1,11 @@
+0 LDCad info for "Technic Beam  3 x  7 x  3 Bent 90 Double Chamfered"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 20 60] [grid=1 C 4 0 40]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 -20 60] [grid=1 C 4 0 40]
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=40 20 120]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=40 -20 120]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

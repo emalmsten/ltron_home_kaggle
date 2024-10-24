@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Bush with Three Axles"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 20] [center=true] [slide=true]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=A 6 20] [slide=true] [pos=0 0 30] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=A 6 20] [slide=true] [pos=25.981 0 -15] [ori=0.5 0.8660254 0 0 0 1 0.8660254 -0.5 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=A 6 20] [slide=true] [pos=-25.981 0 -15] [ori=0.5 -0.8660254 0 0 0 1 -0.8660254 -0.5 0]

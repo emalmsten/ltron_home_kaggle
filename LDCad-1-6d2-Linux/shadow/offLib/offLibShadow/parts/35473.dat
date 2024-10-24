@@ -1,0 +1,6 @@
+0 LDCad info for "Plant Flower  4 x  4 with  4 Rounded Petals"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 16 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 13   R 4 7] [pos=0 16 0]

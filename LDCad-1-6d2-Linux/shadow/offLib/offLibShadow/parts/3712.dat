@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Universal Joint 4L End with Bush End"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 20] [slide=true] [pos=0 0 10] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CLP [group=uniJnt] [radius=6] [length=20] [center=true] [slide=false] [pos=0 0 -30] [ori=0 -1 0 1 0 0 0 0 1]

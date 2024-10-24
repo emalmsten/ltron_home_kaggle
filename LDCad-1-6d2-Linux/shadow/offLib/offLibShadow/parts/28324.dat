@@ -1,0 +1,9 @@
+0 LDCad info for "Car Base  4 x 12 x  0.667 with Side Flanges"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-90 8 0] [grid=C 3 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=90 8 0] [grid=C 3 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 16 -40] [grid=C 4 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   R 8 4] [pos=0 20 0] [grid=C 2 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 16 40] [grid=C 4 C 2 20 20]

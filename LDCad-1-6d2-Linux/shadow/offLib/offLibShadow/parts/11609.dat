@@ -1,0 +1,6 @@
+0 LDCad info for "Plate  1 x  1 Round with Five-Pointed Star Top and Pin Hole Arm"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 5.5   R 2 2.5]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 5.5] [pos=0 -5.5 0] [ori=1 0 0 0 -1 0 0 0 -1]

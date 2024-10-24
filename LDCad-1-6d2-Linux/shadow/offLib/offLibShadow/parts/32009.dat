@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //NOTE this needs a new kind of meta for the oval hole at some point
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 -40]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=40 0 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Y]

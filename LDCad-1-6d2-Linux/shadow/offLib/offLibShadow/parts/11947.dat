@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Panel Fairing Smooth #22 (Thin Short)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 20] [pos=0 0 -10] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   S 6.5 2] [pos=0 10 50] [grid=1 C 2 0 20]
+0 !LDCAD MIRROR_INFO [counterPart=11946.dat]

@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Machine Gun with Drum Magazine"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 13.5] [slide=true] [pos=0 8 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 30] [slide=true] [pos=0 -13.011 -24.657] [ori=0 0 1 0.892 0.451 0 -0.451 0.892 0]

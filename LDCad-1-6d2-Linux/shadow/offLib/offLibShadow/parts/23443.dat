@@ -1,0 +1,6 @@
+0 LDCad info for "Bar Tube with Handle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 10] [slide=true] [pos=0 -30 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 8] [center=true] [slide=true] [ori=-1 0 0 0 0 1 0 1 0]

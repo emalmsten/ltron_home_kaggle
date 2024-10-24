@@ -1,0 +1,7 @@
+0 LDCad info for "Door  2 x  6 x  7 Frame"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 168 0] [grid=C 6 C 2 20 20]
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=F] [seq=152] [radius=2] [pos=-49 84 -14]
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=F] [seq=152] [radius=2] [pos=49 84 -14]

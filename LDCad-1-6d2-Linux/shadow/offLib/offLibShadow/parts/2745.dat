@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Cylinder  4 x  4 x  1.667 with Axleholes"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 12   R 6 2] [pos=0 0 -36] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 2   R 6 2] [pos=0 0 40] [ori=1 0 0 0 0 -1 0 1 0]

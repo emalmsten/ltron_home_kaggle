@@ -1,0 +1,9 @@
+0 LDCad info for "~Figure Duplo Adult Torso without Front and Back"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=dupFigHips] [gender=F] [caps=one] [secs=R 4 44] [center=true] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [group=dupFigArm] [gender=F] [caps=one] [secs=R 11 15] [pos=-24 -34 0.5] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [group=dupFigArm] [gender=F] [caps=one] [secs=R 11 15] [pos=24 -34 0.5] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [group=dupFigHead] [gender=M] [caps=one] [secs=R 12 13] [pos=0 -47 2]
+0 !LDCAD SNAP_GEN [group=dupFigTorso] [gender=F] [bounding=cube 20] [pos=0 -16 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Gun Pistol Two Barrel"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=0 -5 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=R 4 4.5] [slide=true] [pos=0 -21.99 -30.749] [ori=0 0 1 -0.89878382 -0.43839211 0 0.43839211 -0.89878382 0] [grid=2 1 11.5 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 11.5] [slide=true] [pos=0 -12.78414268 -11.87435586] [ori=0 0 1 0.89878382 0.43839211 0 -0.43839211 0.89878382 0]

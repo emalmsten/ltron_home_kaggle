@@ -1,0 +1,6 @@
+0 LDCad info for "~Car Steering Wheel Stand"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 6] [pos=0 -22.72 -5.04] [ori=-1 0 0 0 0.6 -0.8 0 -0.8 -0.6]

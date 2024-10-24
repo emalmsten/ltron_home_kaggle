@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Circular Blade Saw"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 15] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 13] [pos=0 25.15476348 -14.18738443] [ori=1 0 0 0 0.42261826 0.90630779 0 -0.90630779 0.42261826]

@@ -1,0 +1,6 @@
+0 LDCad info for "~Animal Dragon Body Back without Patterned Area"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=dragonTail] [genderOfs=F] [center=false] [seq=22] [radius=3.5] [pos=0 86 64]
+0 !LDCAD SNAP_CYL [group=dragon] [gender=F] [caps=none] [secs=R 12 32] [center=true] [pos=0 30 -4] [ori=0 -1 0 1 0 0 0 0 1]

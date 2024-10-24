@@ -1,0 +1,7 @@
+0 LDCad info for "Glass for Window  1 x  4 x  3 without Handle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-06-13 [anathema] Corrected radius
+
+0 !LDCAD SNAP_FGR [group=win-1-4-3] [genderOfs=M] [seq=72] [radius=2] [ori=0 -1 0 1 0 0 0 0 1]

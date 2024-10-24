@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Gearbox 20:1 Reduction Output Shaft"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 9   R 2.5 5   A 6 5] [slide=true] [pos=0 0 -40] [ori=1 0 0 0 0 -1 0 1 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Fabuland Window Shutter"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Not sure where this fits, prob needs work when thats clear
+0 !LDCAD SNAP_FGR [genderOfs=F] [seq=6] [radius=2] [pos=0 -22.5 0]
+0 !LDCAD SNAP_FGR [genderOfs=F] [seq=6] [radius=2] [pos=0 22.5 0]

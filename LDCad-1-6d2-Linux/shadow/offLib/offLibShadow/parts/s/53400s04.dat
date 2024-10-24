@@ -1,0 +1,6 @@
+0 LDCad info for "~Train Track 6 Studs Wide Curved - Clockwise End Sleeper"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=traintrk] [gender=M] [bounding=cyl 30 4] [pos=0 4 -20] [ori=-1 0 0 0 1 0 0 0 -1]
+0 !LDCAD SNAP_GEN [group=traintrk] [gender=F] [bounding=cyl 30 4] [pos=0 4 20]

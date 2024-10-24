@@ -1,0 +1,7 @@
+0 LDCad info for "Animal Shark Body Type 2"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=2547a.dat]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 19] [pos=0 -5 30]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 19] [pos=0 -5 30]

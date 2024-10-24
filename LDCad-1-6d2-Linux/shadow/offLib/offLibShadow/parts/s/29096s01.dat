@@ -1,0 +1,7 @@
+0 LDCad info for "~Cone Half 10 x  5 x  6 without Outer Surface"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 144 -90] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-50 144 -70] [grid=2 1 100 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-70 144 -50] [grid=2 1 140 0]

@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Axle Pin Long with Friction with  2L Axle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=L_ 6.25 2   R 6 16   R 8 2   A 6 40] [center=true] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 18] [pos=-30 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

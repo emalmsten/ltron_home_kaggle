@@ -1,0 +1,9 @@
+0 LDCad info for "Brick  2 x  2 x  8 with Vertical Grooves on All Sides and Peg"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Anti studs
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 192 0] [grid=C 2 C 2 20 20]
+
+0 //Pin (ignores curved part)
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [pos=0 -4 0]

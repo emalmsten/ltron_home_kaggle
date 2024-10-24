@@ -1,0 +1,12 @@
+0 LDCad info for "Brick  2 x  2 with Grooves and Top Peg"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Anti studs
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 24 0] [grid=C 2 C 2 20 20]
+
+0 //Axle hole
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 16] [pos=0 3 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //pin (ignores the curved part)
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 4 12] [pos=0 -4 0]

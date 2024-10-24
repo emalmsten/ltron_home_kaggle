@@ -1,0 +1,6 @@
+0 LDCad info for "Plant Flower Rose with Bar and Pin Hole"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 6]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 13]

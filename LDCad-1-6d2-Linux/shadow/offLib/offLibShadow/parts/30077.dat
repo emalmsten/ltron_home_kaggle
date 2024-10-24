@@ -1,0 +1,6 @@
+0 LDCad info for "Fence  1 x  6 x  2"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 48 0] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 44] [pos=-50 48 0] [grid=2 1 100 0]

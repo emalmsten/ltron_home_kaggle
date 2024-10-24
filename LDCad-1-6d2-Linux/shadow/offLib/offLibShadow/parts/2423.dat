@@ -1,0 +1,10 @@
+0 LDCad info for "Plant Leaves  4 x  3"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 5   R 4 7] [pos=0 8 -60]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 5   R 4 7] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 7] [slide=true] [pos=-20 3 -40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 7] [slide=true] [pos=-20 3 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 7] [slide=true] [pos=20 3 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 7] [slide=true] [pos=20 3 -40]

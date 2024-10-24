@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Beam  4 x  0.5 Liftarm with Click Rotation Hinge Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //click rotation
+0 !LDCAD SNAP_CYL [group=clkRot] [gender=M] [caps=one] [secs=R 9.5 5] [ori=1 0 0 0 -1 0 0 0 -1]
+
+0 //Extra conhole
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true] [pos=0 0 60]

@@ -1,0 +1,8 @@
+0 LDCad info for "Tile  1 x  2 with Console"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-02 [anathema] Added stud hole in back
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 -14 10] [ori=1 0 0 0 0 -1 0 1 0]

@@ -1,0 +1,6 @@
+0 LDCad info for "Tile  1 x  1 Round with Pin and Pin Hole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   R 2 12] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 10 8   R 4 8] [slide=true] [pos=0 8 0]

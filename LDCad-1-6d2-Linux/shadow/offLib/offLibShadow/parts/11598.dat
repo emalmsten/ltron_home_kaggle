@@ -1,0 +1,7 @@
+0 LDCad info for "Cocoon  4 x  4 x  3"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //TODO: Bit of a hack, a new meta is needed.
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=S 40 4] [pos=0 -72 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 40 4] [pos=0 -72 0] [ori=-1 0 0 0 -1 0 0 0 1]

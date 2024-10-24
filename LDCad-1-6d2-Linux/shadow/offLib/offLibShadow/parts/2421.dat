@@ -1,0 +1,6 @@
+0 LDCad info for "Propeller  3 Blade  4 Diameter"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 10   R 5 2] [pos=0 6 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 10   R 5 2] [pos=0 -6 0] [ori=-1 0 0 0 -1 0 0 0 1]

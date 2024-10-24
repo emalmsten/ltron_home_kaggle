@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Pneumatic Valve Lever"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Axle, don't define the whole length cause part of it will be inside the switch box.
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 20] [slide=true] [pos=0 0 -20.5] [ori=1 0 0 0 0 -1 0 1 0]

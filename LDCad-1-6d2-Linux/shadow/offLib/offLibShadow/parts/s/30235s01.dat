@@ -1,0 +1,8 @@
+0 LDCad info for "~Car Base  4 x 10 x  1.667 End"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-30 8 0] [grid=1 C 2 0 60]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 40 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=S 16 24   R 6 16   R 8 4] [slide=true] [pos=0 40 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=-30 0 0] [grid=1 C 2 0 20]

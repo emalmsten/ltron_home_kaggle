@@ -1,0 +1,9 @@
+0 LDCad info for "Technic Flex-System Pin Hole Connector"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [center=true] [slide=true]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]
+
+0 !LDCAD SNAP_CYL [group=techFlexEnd] [gender=F] [caps=one] [secs=R 2 11] [pos=20.5 0 0] [ori=0 1 0 -1 0 0 0 0 1]

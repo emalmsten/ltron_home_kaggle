@@ -1,0 +1,16 @@
+0 LDCad info for "Brick  2 x  2 x  3.333 Octagonal Corner"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Dump the wrong axle info
+0 !LDCAD SNAP_CLEAR 
+
+0 //Anti studs
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 40] [pos=0 80 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 20 20] [ori=1 0 0 0 0 -1 0 1 0] [grid=C 2 C 2 20 20]
+
+0 //Ver hole
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 48] [pos=0 80 0]
+
+0 //Hor holes
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 32] [pos=0 20 20] [ori=1 0 0 0 0 -1 0 1 0]

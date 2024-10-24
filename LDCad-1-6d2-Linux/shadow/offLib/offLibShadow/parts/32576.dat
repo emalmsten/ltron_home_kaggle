@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Connector  3 x  4.5 x  2.333 with Pin (Needs Work)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 18   _L 6.25 2]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=20 10 0]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=60 50 0] [grid=1 C 2 0 40]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

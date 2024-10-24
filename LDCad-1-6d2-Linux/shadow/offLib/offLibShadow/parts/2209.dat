@@ -1,0 +1,6 @@
+0 LDCad info for "Duplo Door  1 x  3 x  6 with Four Panes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 2.5 12] [slide=true] [pos=0 35 0] [grid=1 4 1 0 62 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

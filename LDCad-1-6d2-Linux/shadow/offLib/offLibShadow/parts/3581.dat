@@ -1,0 +1,6 @@
+0 LDCad info for "Brick  1 x  1 x  2 with Shutter Holder"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=4 40 4] [radius=2] [pos=0 24 -13]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 44] [pos=0 48 0]

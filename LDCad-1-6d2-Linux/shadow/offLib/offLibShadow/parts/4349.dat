@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Loudhailer"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=0 8 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //This accepts a stud in real-life.
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   R 5 4   R 4 26] [pos=0 0 -22] [ori=1 0 0 0 0 1 0 -1 0]

@@ -1,0 +1,6 @@
+0 LDCad info for "~Motor Windup  2 x  6 x  2.333 Rachet Axle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Axle part only (Round portion is inside the block)
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 18] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]

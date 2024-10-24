@@ -1,0 +1,6 @@
+0 LDCad info for "Sphere  1.4 x  1.4 with Stud Attachment"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 10   R 5 14]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 7] [pos=0 -7 0] [ori=-1 0 0 0 -1 0 0 0 1]

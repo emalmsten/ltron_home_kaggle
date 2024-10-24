@@ -1,0 +1,6 @@
+0 LDCad info for "~Duplo Train Engine Hood  2 x  2 Base with Front Lantern"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=S 32 4   R 14 44] [slide=true] [pos=0 48 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 44] [slide=true] [pos=0 48 0] [grid=C 2 C 2 40 40]

@@ -1,0 +1,6 @@
+0 LDCad info for "Bar 11 x 13 Grille"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 42] [center=true] [slide=true] [ori=1 0 0 0 0 -1 0 1 0] [grid=C 9 C 4 1 30 50 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 22] [center=true] [slide=true] [ori=0 -1 0 0 0 1 -1 0 0] [grid=C 5 C 8 1 50 30 0]

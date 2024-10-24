@@ -1,0 +1,6 @@
+0 LDCad info for "Door  2 x  6 x  7 with Four Panes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=M] [seq=152] [radius=2]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 8] [pos=-92 4 -2.5] [ori=0 0 1 1 0 0 0 1 0]

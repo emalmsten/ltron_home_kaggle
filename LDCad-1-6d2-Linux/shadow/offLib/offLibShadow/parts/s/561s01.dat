@@ -1,0 +1,5 @@
+0 LDCad info for "~Electric  4.5V Battery Box Contact"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=elec] [gender=F] [caps=one] [secs=R 3.5 8] [pos=0 -4 0] [ori=1 0 0 0 -1 0 0 0 -1]

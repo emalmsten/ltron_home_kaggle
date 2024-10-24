@@ -1,0 +1,6 @@
+0 LDCad info for "~Electric Technic Solar Panel Bottom (Needs Work)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=80 10 -100] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=80 10 100] [ori=-1 0 0 0 -1 0 0 0 1] [grid=2 2 160 20]

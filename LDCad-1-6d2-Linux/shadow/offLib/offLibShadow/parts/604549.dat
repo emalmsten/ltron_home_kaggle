@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Tool Battery Powered Drill"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 14] [center=true] [slide=true] [pos=0 -2 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 1.75 6.25] [slide=true] [pos=0 -19.07747377 -26.10158048] [ori=1 0 0 0 0.11320335 -0.99357184 0 0.99357184 0.11320335]

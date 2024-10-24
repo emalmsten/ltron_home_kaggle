@@ -1,0 +1,10 @@
+0 LDCad info for "Brick  4 x  4 Corner Round"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Antistuds
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=10 24 -70]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=50 24 -50]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=70 24 -10]
+
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 1 0 1 0 -1 0 0]

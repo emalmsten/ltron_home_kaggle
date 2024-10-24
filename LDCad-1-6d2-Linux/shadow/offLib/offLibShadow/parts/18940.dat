@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Gear Rack  1 x 14 with Bottom Beam Housing"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=techGearRack] [gender=F] [caps=one] [secs=S 10 232] [slide=true] [pos=-110 -20 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

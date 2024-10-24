@@ -1,0 +1,6 @@
+0 LDCad info for "Hinge Brick  4 x  8 x  2 Curved Locking with 2 Dual Fingers"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=-20 10 30] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=20 10 30] [ori=0 -1 0 1 0 0 0 0 1]

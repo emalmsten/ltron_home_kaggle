@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Beam 11"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 100]
+0 !LDCAD SNAP_CYL [group=craneArmW20] [gender=M] [caps=none] [secs=S 10 200] [center=true] [slide=true] [ori=-1 0 0 0 0 -1 0 -1 0]

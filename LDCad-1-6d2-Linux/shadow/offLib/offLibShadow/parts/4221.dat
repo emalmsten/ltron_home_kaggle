@@ -1,0 +1,6 @@
+0 LDCad info for "Arm Piece Grab Jaw"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLP [radius=3] [length=2.75] [pos=7 0 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CLP [radius=3] [length=2.75] [pos=-1.5 0 0] [ori=0 1 0 1 0 0 0 0 -1]

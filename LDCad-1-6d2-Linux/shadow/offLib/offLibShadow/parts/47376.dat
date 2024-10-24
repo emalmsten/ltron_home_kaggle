@@ -1,0 +1,7 @@
+0 LDCad info for "Brick 12 x 12 Corner Round with Support Pins"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=-100 -4 -100]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=100 -4 100]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=-100 -4 100]

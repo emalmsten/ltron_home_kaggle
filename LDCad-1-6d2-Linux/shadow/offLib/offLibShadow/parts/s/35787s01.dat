@@ -1,0 +1,7 @@
+0 LDCad info for "~Tile  2 x  2 Triangular without Top Surface"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-10 8 -10] [grid=1 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 8 -10]
+0 !LDCAD MIRROR_INFO [oriCor=0 0 -1 0 1 0 1 0 0] [inheritable=true]

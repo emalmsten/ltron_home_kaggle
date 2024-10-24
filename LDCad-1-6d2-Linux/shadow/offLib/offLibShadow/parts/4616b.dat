@@ -1,0 +1,12 @@
+0 LDCad info for "Brick  2 x  4 x  2 with Engine Cowling and Hole for Technic Pin"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Anti studs, Same as plate but compensate for the y pos
+0 !LDCAD SNAP_INCL [ref=3020.dat] [pos=0 40 0]
+
+0 //Side holes
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 4] [pos=0 22 0] [grid=C 2 C 2 60 20]
+
+0 //Pin hole
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 6] [pos=0 24 -40] [ori=1 0 0 0 0 1 0 -1 0]

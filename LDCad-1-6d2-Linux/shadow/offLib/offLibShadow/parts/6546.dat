@@ -1,0 +1,8 @@
+0 LDCad info for "Door  1 x  2 x  3 Pane"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-17 [anathema] Added snap data
+
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self] [posCor=0 30 0] [inheritable=true]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=60] [radius=2] [pos=0 30 0]

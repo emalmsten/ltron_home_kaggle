@@ -1,0 +1,7 @@
+0 LDCad info for "Car Base  4 x  8 x  1.333 with Studs on Side"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 32 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [slide=true] [pos=0 32 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 28] [pos=0 32 0] [grid=C 4 C 2 20 60]

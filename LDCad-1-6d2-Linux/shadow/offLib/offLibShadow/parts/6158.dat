@@ -1,0 +1,9 @@
+0 LDCad info for "Minifig Fire Helmet Breathing Hose"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-22 [anathema] Changed visor snap to 'finger'
+
+0 !LDCAD SNAP_FGR [group=visor] [genderOfs=F] [seq=2 28 2] [radius=2] [pos=0 -18 0] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 8] [pos=-4 -2.2 -17] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 13 22] [slide=true]

@@ -1,0 +1,9 @@
+0 LDCad info for "Container  2 x  2 x  2 Crate"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 16 4] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=S 16 4] [pos=0 -40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CLEAR [ID=axleHole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4   A 6 4] [pos=0 8 0]

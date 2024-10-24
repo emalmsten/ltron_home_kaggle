@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Surf Board  2 x 10"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-09 [anathema] Corrected snap data to match the mast
+
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 8] [match=size] [placement=free] [pos=0 0 50]

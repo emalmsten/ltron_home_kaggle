@@ -1,0 +1,8 @@
+0 LDCad info for "Brick  2 x  4 with 4 Red Axle Bushes and Red Underside"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Extra hole (NOTE: I think the red halve should be some sort of rubber, might need an extra param for that at some point)
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 4   _L 4.5 32   R 4 4] [center=true] [pos=0 10 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4   _L 4.5 28   R 4 2] [pos=-40 10 0] [ori=0 -1 0 0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4   _L 4.5 28   R 4 2] [pos=40 10 0] [ori=0 1 0 0 0 1 1 0 0]

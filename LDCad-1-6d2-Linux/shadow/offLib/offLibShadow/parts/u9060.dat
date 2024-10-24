@@ -1,0 +1,6 @@
+0 LDCad info for "Electric Train 12V Transformer Throttle Control Knob"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4.5   A 6 15   R 6 4.5] [pos=0 24 0]

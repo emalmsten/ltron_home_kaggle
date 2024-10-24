@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Flex-System Hose End"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [ID=flexEnd] [gender=M] [caps=none] [secs=R 4 1] [slide=true] [ori=1 0 0 0 -1 0 0 0 -1] [scale=YOnly]
+0 !LDCAD SNAP_CYL [ID=flexEnd] [gender=F] [caps=none] [secs=R 2 1] [slide=true] [ori=1 0 0 0 -1 0 0 0 -1] [scale=YOnly]

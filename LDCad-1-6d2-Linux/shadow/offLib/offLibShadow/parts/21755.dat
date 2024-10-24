@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Axle Joiner  2L Hilt"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 //Depth of >20 seems wrong
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 19] [pos=0 0 -20] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 19] [pos=0 0 20] [ori=1 0 0 0 0 -1 0 1 0]

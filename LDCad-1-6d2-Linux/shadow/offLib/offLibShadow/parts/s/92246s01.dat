@@ -1,0 +1,9 @@
+0 LDCad info for "~Figure Friends Male Left Arm Structure"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //shoulder pin
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 2 7   _L 2.5 2   R 2 1] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //hand
+0 !LDCAD SNAP_CLP [radius=4] [length=11] [pos=13.5 30.3 12.3] [ori=1 0 0 0 0 -1 0 1 0]

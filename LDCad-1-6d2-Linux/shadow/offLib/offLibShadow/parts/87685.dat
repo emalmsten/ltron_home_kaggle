@@ -1,0 +1,8 @@
+0 LDCad info for "Minifig Plume Dragon Wing Left"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 20202-05-08 [anathema] Added outer cylinder
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 2 5.4] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=B] [secs=R 4 4] [pos=0 -7.6 0] [ori=1 0 0 0 -1 0 0 0 1]

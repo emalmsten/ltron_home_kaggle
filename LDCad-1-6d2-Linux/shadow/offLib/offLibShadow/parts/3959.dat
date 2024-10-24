@@ -1,0 +1,9 @@
+0 LDCad info for "Minifig Torch"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 8] [slide=true] [pos=0 0 -24] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 4   R 10 2   R 9 8   R 8 6] [slide=true] [pos=0 0 -4] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 12] [slide=true] [pos=0 4 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 24] [slide=true] [pos=0 0 4] [ori=1 0 0 0 0 1 0 -1 0]

@@ -1,0 +1,5 @@
+0 LDCad info for "~Electric Train 12V Power Pickup Plug Pin Type 2"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=elec] [gender=M] [caps=one] [secs=R 3.5 20] [pos=0 -6 0]

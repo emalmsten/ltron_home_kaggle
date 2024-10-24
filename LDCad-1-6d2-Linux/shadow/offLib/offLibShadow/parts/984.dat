@@ -1,0 +1,7 @@
+0 LDCad info for "~Technic Axle Joiner  3 x  2 with Spring - Axle Housing"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Drop existing axle hole, cause it needs to be longer in order to work together with the whole axle joiner (it can rotate so it has to be done here)
+0 !LDCAD SNAP_CLEAR [id=axleHole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 20] [center=true] [slide=true] [pos=0 7 0]

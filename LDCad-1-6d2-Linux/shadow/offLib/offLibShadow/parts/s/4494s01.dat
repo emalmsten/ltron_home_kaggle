@@ -1,0 +1,6 @@
+0 LDCad info for "~Animal Horse Body Right - Half Body"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=horse] [gender=F] [bounding=sph 40]
+0 !LDCAD SNAP_GEN [group=horse] [gender=M] [bounding=cyl 16 10] [placement=free] [pos=0 -19.5 -33.5] [ori=0 1 0 0 0 -1 -1 0 0]

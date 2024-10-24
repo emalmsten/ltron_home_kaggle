@@ -1,0 +1,6 @@
+0 LDCad info for "~Windscreen  6 x 10 x  3 Ovoid with  1 x  2 x  1 Cutout - 1/4"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=-90 0 -30]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=-90 -24 -10]

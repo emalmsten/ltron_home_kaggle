@@ -1,0 +1,14 @@
+0 LDCad info for "Constraction Connector  3 x  2 with Single Round Ball Socket"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 40] [center=true] [slide=true] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 20] [center=true] [slide=true] [pos=0 0 20]
+
+0 //Socket holes
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8] [center=true] [slide=true] [pos=-16 0 -20] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8] [center=true] [slide=true] [pos=16 0 -20] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //Socket
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=F] [bounding=sph 12.7] [match=size] [placement=free] [pos=0 0 -20]

@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Hand Hook"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 2.5 13] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]
+0 !LDCAD SNAP_CLP [radius=4] [length=4] [center=true] [pos=0 0 -12] [ori=0 0 -1 0 1 0 1 0 0]

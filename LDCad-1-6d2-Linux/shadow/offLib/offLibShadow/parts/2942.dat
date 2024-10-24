@@ -1,0 +1,5 @@
+0 LDCad info for "~Technic Pneumatic Cylinder 1 x 1 for Pump 5.5L"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=pneuCyl] [gender=F] [caps=one] [secs=R 8 58] [slide=true] [pos=0 -78 0] [ori=-1 0 0 0 -1 0 0 0 1]

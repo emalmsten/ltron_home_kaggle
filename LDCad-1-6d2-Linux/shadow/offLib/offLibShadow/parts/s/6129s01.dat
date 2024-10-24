@@ -1,0 +1,6 @@
+0 LDCad info for "~Animal Dragon Body Jaw without Patterned Areas"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=dragonHead] [genderOfs=M] [center=false] [seq=22] [radius=2] [pos=11 -57.5 -61] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 4] [pos=0 -28.0760969 -114.74737346] [ori=1 0 0 0 -0.9239031 0.38262654 0 -0.38262654 -0.9239031]

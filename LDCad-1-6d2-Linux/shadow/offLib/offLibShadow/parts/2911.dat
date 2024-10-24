@@ -1,0 +1,7 @@
+0 LDCad info for "~Monorail Track Points Interior Shover"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 3.5 3] [pos=0 3 -76.75] [ori=0 0 -1 0 1 0 1 0 0]
+0 //5ldu so it fits the wheel
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 5 3.5   R 3.5 3.75] [pos=0 0 76.75] [ori=0 0 -1 0 1 0 1 0 0]

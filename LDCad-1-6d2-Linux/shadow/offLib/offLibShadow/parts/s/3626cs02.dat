@@ -1,0 +1,6 @@
+0 LDCad info for "~Minifig Head - Closed Hollow Stud w/o Front and Back Surface"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [slide=true] [pos=0 24 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 13 21] [slide=true] [pos=0 21 0]

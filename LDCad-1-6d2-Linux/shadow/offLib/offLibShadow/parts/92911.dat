@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Ball Joint  2.25 Diameter Socket"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //I'm not 100% sure about the radius
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 24] [match=size] [placement=free]

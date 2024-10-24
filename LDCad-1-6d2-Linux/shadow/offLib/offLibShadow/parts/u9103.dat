@@ -1,0 +1,6 @@
+0 LDCad info for "Figure Fabuland Hips Hinge"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 4 47] [center=true] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [group=fabHipBar] [gender=M] [bounding=sph 15] [ori=0 -1 0 1 0 0 0 0 1]

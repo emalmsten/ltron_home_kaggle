@@ -1,0 +1,6 @@
+0 LDCad info for "Electric Power Functions Light Middle Box (Complete)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=pfLight] [gender=F] [bounding=sph 10] [pos=3 12 -16]
+0 !LDCAD SNAP_GEN [group=pfLight] [gender=F] [bounding=sph 10] [pos=-3 12 -16]

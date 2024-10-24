@@ -1,0 +1,5 @@
+0 LDCad info for "~Wheel Rim 14 x 60 with 3 Spokes and 3 Pegholes 1/6"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 8   R 6 16   R 8 8] [center=true] [pos=60 0 0] [ori=1 0 0 0 0 1 0 -1 0] [mirror=none]

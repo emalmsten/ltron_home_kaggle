@@ -1,0 +1,6 @@
+0 LDCad info for "~Minifig Electric Guitar Classic - Back"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 10] [slide=true] [pos=0 0 2.5] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 35] [pos=0 -26 -0.5]

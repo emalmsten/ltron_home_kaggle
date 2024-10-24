@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Holder Block  4 x  4 x  3"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 72 0] [grid=C 4 C 4 20 20]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 4   _L 4.25 1] [pos=0 33.5 -40] [ori=1 0 0 0 0 -1 0 1 0] [grid=C 2 C 2 64 51]

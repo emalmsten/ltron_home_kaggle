@@ -1,0 +1,9 @@
+0 LDCad info for "Figure Friends Hair Long with Curls"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //top
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 9] [slide=true] [pos=0 -10 -1.2] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //side
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 5.7] [slide=true] [pos=19.5 3.5 2.5] [ori=0 1 0 -1 0 0 0 0 1]

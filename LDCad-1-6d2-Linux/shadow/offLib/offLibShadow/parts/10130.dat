@@ -1,0 +1,7 @@
+0 LDCad info for "~Electric Power Functions Servo Motor Case Back"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=-20 0 20] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 0 40]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=20 0 20] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 0 40]

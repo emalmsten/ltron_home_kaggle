@@ -1,0 +1,6 @@
+0 LDCad info for "~Electric Light Brick  2 x  3 x  1.333 Bottom"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [grid=C 3 C 2 20 20]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self] [inheritable=true]

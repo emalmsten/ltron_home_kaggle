@@ -1,0 +1,6 @@
+0 LDCad info for "Slope Brick 45  4 x  6 x  0.667 Double"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0] [grid=C 4 C 2 20 60]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 8] [pos=0 16 0] [grid=C 2 C 2 100 60]

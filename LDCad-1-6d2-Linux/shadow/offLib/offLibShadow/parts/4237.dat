@@ -1,0 +1,7 @@
+0 LDCad info for "Container  4 x  6 x  2.333 Crate"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //TODO: Needs new orientation restriction
+0 !LDCAD SNAP_GEN [gender=M] [bounding=box 40 8 60] [pos=0 -48 0]
+0 !LDCAD SNAP_GEN [gender=F] [bounding=box 40 8 60] [pos=0 8 0]

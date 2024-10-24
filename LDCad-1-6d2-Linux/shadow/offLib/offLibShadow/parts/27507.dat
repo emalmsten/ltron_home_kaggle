@@ -1,0 +1,10 @@
+0 LDCad info for "Tile  4 x  4 Corner Round"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=10 8 -70]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=70 8 -10]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=30 8 -70]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=50 8 -50]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=70 8 -30]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 1 0 1 0 -1 0 0]

@@ -1,0 +1,10 @@
+0 LDCad info for "Technic Beam  1 x  3 x  7 with 4 Axleholes and 3 Holes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=-20 0 -20]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=-20 0 -100]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 -80]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 20] [slide=true] [pos=20 0 -30] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Y]

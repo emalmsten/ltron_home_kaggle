@@ -1,0 +1,6 @@
+0 LDCad info for "Monorail Track Ramp Lower Section"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 9] [pos=320 -16 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 9] [pos=630 -95 0] [grid=1 C 2 0 20]

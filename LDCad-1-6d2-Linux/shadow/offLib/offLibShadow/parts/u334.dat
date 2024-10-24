@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Axle Flexible 26 with Axle 4L and Axle 2L on Ends"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //redo as a single shape
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=A 6 90   R 7 5   R 6 15   R 3.5 290   R 6 15   R 7 5   A 6 90] [center=true] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]

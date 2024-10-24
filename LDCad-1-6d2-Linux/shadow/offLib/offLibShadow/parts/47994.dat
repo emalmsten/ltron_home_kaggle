@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Connector  3 x  1 x  3 with 2 Clips and 2 Pins with Round Inside"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [pos=-30 10 0]
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [pos=-30 -10 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

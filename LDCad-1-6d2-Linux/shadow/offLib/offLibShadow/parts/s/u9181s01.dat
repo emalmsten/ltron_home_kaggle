@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Motor Pull Back  5 x  7 x  3 Type 6 - Half"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [slide=true] [pos=-10 0 80] [ori=0 -1 0 -1 0 0 0 0 -1] [grid=1 4 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [slide=true] [pos=-10 -60 120] [ori=0 -1 0 -1 0 0 0 0 -1]

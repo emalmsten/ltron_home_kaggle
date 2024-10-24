@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Steering Arm Tall"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 8] [match=size] [placement=free] [pos=0 -40 0]
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 8] [match=size] [placement=free] [pos=0 40 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

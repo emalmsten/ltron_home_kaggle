@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Helmet Roman Soldier"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 6]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 2 7.5] [slide=true] [pos=0 -6 2]
+0 !LDCAD SNAP_GEN [group=visor] [gender=M] [bounding=cyl 2 18] [match=size] [pos=0 1 2] [ori=0 -1 0 0 0 -1 1 0 0]

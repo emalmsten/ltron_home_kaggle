@@ -1,0 +1,6 @@
+0 LDCad info for "Bar  4.5L with Handle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 90] [slide=true] [pos=0 -8.5 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 20] [slide=true] [pos=0 0 -10] [ori=1 0 0 0 0 -1 0 1 0]

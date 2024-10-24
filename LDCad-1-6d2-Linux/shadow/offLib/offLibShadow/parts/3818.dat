@@ -1,0 +1,11 @@
+0 LDCad info for "Minifig Arm Right"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Note: Disabled mirror corrections, or 3819 will have stuff twice
+
+0 //Troso
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 5 2] [center=true] [pos=1 0 0] [ori=0 1 0 -1 0 0 0 0 1] [mirror=none]
+
+0 //Hand
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2.5 15] [pos=-5 18.8839 -9.8839] [ori=1 0 0 0 0.70710678 0.70710678 0 -0.70710678 0.70710678] [mirror=none]

@@ -1,0 +1,7 @@
+0 LDCad info for "Axle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Axle, will be scaled in higher references as long only the y axle is scaled.
+0 // center=false and non zero pos here, because the primitive isn't centered at 0,0,0 which would cause displacement due to scaling.
+0 !LDCAD SNAP_CYL [id=axle] [gender=M] [caps=none] [secs=A 6 1] [slide=true] [pos=0 1 0] [scale=YOnly]

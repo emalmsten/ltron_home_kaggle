@@ -1,0 +1,5 @@
+0 LDCad info for "Technic Linear Actuator  4 x  1 x  1 Body Assembly"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=linAct1] [gender=F] [caps=one] [secs=R 6 60] [pos=0 0 102] [ori=1 0 0 0 0 -1 0 1 0]

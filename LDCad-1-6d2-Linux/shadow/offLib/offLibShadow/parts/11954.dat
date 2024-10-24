@@ -1,0 +1,13 @@
+0 LDCad info for "Technic Panel Smooth 11 x  2 x  3 with 10 Front Pin Holes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 3] [pos=0 0 -110] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 3] [pos=-20 -40 -110] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 3] [pos=0 0 110] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 3] [pos=-20 -40 110] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   S 8 2] [pos=0 10 0] [grid=1 C 5 0 40]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

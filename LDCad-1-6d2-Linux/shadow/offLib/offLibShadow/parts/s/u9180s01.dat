@@ -1,0 +1,7 @@
+0 LDCad info for "~Minifig Conical Flask - Neck"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5   R 3.5 15] [pos=0 40 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 13.5] [slide=true] [pos=0 16 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4   R 2 6] [pos=0 -4 0] [ori=-1 0 0 0 -1 0 0 0 1]

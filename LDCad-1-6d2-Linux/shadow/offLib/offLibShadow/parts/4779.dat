@@ -1,0 +1,6 @@
+0 LDCad info for "Fabuland Ferris Wheel Axle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=ferris] [gender=M] [bounding=sph 20] [pos=0 50 0]
+0 !LDCAD SNAP_GEN [group=ferris] [gender=F] [bounding=sph 20] [pos=0 50 0] [ori=1 0 0 0 -1 0 0 0 -1]

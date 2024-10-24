@@ -1,0 +1,7 @@
+0 LDCad info for "~Duplo Train Track Level Crossing - Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [pos=0 24 140] [grid=C 6 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [pos=-160 24 160] [grid=C 2 C 2 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [pos=160 24 160] [grid=C 2 C 2 40 40]

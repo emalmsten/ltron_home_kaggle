@@ -1,0 +1,6 @@
+0 LDCad info for "~Plane Jet Engine without Top Plate"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 10   A 6 34   R 16 56] [pos=0 0 40] [ori=1 0 0 0 0 -1 0 1 0]

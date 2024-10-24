@@ -1,0 +1,8 @@
+0 LDCad info for "Minifig Mechanical Arm with Clip and Rod Hole with Thin Forearm"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 18] [pos=38 17.5 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 14] [center=true] [pos=23.13 17.234 0] [ori=0 0 1 -1 0 0 0 -1 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self] [inheritable=true]

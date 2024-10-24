@@ -1,0 +1,6 @@
+0 LDCad info for "Propeller  3 Blade  3.5 Diameter with Axlehole"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 2] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 22] [slide=true] [pos=0 0 10] [ori=1 0 0 0 0 -1 0 1 0]

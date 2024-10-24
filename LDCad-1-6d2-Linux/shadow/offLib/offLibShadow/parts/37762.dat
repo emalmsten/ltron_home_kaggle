@@ -1,0 +1,6 @@
+0 LDCad info for "Cylinder  1 x  1.333 with  0.5L Bar and Bar Hole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 10   R 2.5 17.5] [slide=true] [pos=0 -32 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 7.25 32   R 4 7.5] [slide=true] [pos=0 -32 0] [ori=-1 0 0 0 -1 0 0 0 1]

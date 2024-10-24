@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Beam  3.8 x  1 Liftarm with Click Rotation Ring Socket"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //NOTE click rotatate stuff needs meta extensions
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 16   R 6.25 4] [slide=true] [pos=0 0 -58] [ori=1 0 0 0 0 1 0 -1 0]

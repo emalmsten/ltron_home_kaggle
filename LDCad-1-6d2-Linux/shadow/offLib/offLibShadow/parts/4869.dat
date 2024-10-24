@@ -1,0 +1,7 @@
+0 LDCad info for "Plane Jet Engine Centre"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Redo as a single male shape so it plays nice with the engine piece
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 6 4   R 15 48   A 6 20] [slide=true] [pos=0 0 -56] [ori=1 0 0 0 0 1 0 -1 0]

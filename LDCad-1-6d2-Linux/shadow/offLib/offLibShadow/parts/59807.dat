@@ -1,0 +1,9 @@
+0 LDCad info for "Crane Harbour Derrick 16 with 5 Holes"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 -10 0]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 -10 -120]
+0 !LDCAD SNAP_INCL [ref=beamhol2.dat] [pos=0 -5 -220]
+0 !LDCAD SNAP_INCL [ref=beamhol2.dat] [pos=0 -5 -260]
+0 !LDCAD SNAP_INCL [ref=beamhol2.dat] [pos=0 -25 40]

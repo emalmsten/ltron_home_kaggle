@@ -1,0 +1,6 @@
+0 LDCad info for "~Monorail Motor Case"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=stud2.dat] [pos=0 -2 0] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_INCL [ref=stud2.dat] [pos=37 74 0] [ori=0 -1 0 1 0 0 0 0 1] [grid=C 2 C 2 20 20]

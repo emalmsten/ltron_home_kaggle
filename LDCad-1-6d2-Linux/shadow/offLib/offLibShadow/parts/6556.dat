@@ -1,0 +1,13 @@
+0 LDCad info for "Train Window  1 x  4 x  3 with Shutter Holes"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-17 [anathema] Added more snap data
+0 !HISTORY 2020-06-13 [anathema] Added snap for glass
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 72 0] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_FGR [genderOfs=F] [seq=60] [radius=2] [pos=-34 34 6]
+0 !LDCAD SNAP_FGR [genderOfs=F] [seq=60] [radius=2] [pos=34 34 6]
+0 !LDCAD SNAP_INCL [ref=stud.dat] [pos=30 0 0]
+0 !LDCAD SNAP_INCL [ref=stud.dat] [pos=-30 0 0]
+0 !LDCAD SNAP_FGR [group=win-1-4-3] [genderOfs=F] [seq=72] [radius=2] [pos=0 34 -4] [ori=0 -1 0 1 0 0 0 0 1]

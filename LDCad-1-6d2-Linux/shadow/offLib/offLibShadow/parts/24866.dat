@@ -1,0 +1,6 @@
+0 LDCad info for "Plate  1 x  1 with  5 Petals"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 6] [pos=0 2 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 6   R 2 2   R 4 4] [pos=0 8 0]

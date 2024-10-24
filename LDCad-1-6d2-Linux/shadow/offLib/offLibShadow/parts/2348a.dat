@@ -1,0 +1,7 @@
+0 LDCad info for "Glass for Hinge Car Roof  4 x  4 Sunroof without Ridges"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-23 [anathema] Changed to use 'finger' snapping
+
+0 !LDCAD SNAP_FGR [group=glsCarRoof] [genderOfs=M] [seq=2 60 2] [ori=0 -1 0 1 0 0 0 0 1] [gender=M]

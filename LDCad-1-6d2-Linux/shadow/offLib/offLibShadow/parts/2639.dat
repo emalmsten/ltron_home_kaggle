@@ -1,0 +1,7 @@
+0 LDCad info for "Plate  4 x  4 Corner"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 40] [grid=C 2 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=20 8 0] [grid=C 4 C 2 20 20]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 -1 0 1 0 1 0 0]

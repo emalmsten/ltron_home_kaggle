@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Suspension Arm  2 x  6"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 2] [center=true] [slide=true] [pos=15 0 -10] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 8] [center=true] [slide=true] [pos=-15 0 -10] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 0 20]

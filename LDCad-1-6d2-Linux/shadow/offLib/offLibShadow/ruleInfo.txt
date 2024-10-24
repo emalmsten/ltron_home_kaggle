@@ -1,0 +1,191 @@
+﻿------======Angles======------
+Use plenty of digits for sin/cos values,
+  or it WILL affect snapping precision in the y direction of the info.
+
+for example:
+45 deg sin: 0.70710678
+60 deg sin: 0.86602544
+
+
+
+------======Rotation======------
+All info points into the negative Y-axis when at rest.
+ some alternative ori values are:
+
+Neg Y (base)  1 0 0 0 1 0 0 0 1
+Pos Y         1 0 0 0 -1 0 0 0 -1
+
+Neg X         0 1 0 -1 0 0 0 0 1
+Pos X         0 -1 0 1 0 0 0 0 1
+
+Neg Z         1 0 0 0 0 -1 0 1 0
+Pos Z         1 0 0 0 0 1 0 -1 0
+
+
+
+------======ID's======------
+Some primitive shadow files use ID's on some of the meta's so they can optionally be dropped from higher parts, these are:
+
+aStud: Antistud (stud4od.dat).
+axle: Axle (axle.dat).
+axleDuplo: Duplo technic axle.
+axleHole2: Axle hole type 2 (axl2hole.dat).
+axleHole3: Axle hole type 3 (axl3hole.dat).
+axleHole: Axle hole  (axlehole.dat).
+axleHoleDuplo: Duplo technic axle hole.
+conn4: Technic pin without the base (connect4.dat).
+connhol3: Technic connector one sided hole (connhol3.dat).
+connhole: Technic connector hole (connhole.dat).
+dragonBodyL: Animal Dragon specific.
+dragonBodyR: Animal Dragon specific.
+dupStud: Duplo stud.
+elecHole: Electic pin hole.
+elecPin: Electic pin.
+elecSck: Old (4.5v) electric pin.
+flexEnd: flex hose segment primitive.
+flexSeg: flex hose segment end primitive.
+motorcyclewindshield: 4482 motor cycle window.
+pin8: connect8.dat.
+stud2: stud2.dat.
+stud3: stud3.dat.
+studC: stud.dat and variants.
+studDuplo: duplo stud and variants.
+studO: stud2.dat (open stud) and variants.
+wpAxHole: Wheel pin (axle) hole.
+
+
+
+------======Groups======------
+Some off beat shapes use group names to prevent unwanted matches, the currently used names are:
+
+bikeWheel: Bicycle wheel.
+bionicleChain: Chain segment.
+boat: Boat segment connection.
+boatMotor: Boat motor connection.
+bucketArm: Excavator arm bucket.
+bumper: Technic brick bumper connection.
+clkRot: Click rotation connection.
+coffin: Minifig coffin connection.
+compass: Minifig compass needle/disc.
+cow: Animal cow specific.
+craneArmW16: Slim technic beam based crane arm.
+craneArmW20: Normal technic beam based crane arm.
+diffHouse: Technic differential housing.
+door-1-3-4: Specific door / frame connection.
+door: Generic door / frame connection.
+dragon: Animal dragon specific.
+dragonHead: Animal dragon specific.
+dragonTail: Animal dragon specific.
+drawer: Minifig drawer cabinet.
+drivingRing1: Technic axle joiner transaction slider connection.
+drivingRing2: Technic axle joiner transaction slider connection.
+dupFigArm: Duplo figure arm.
+dupFigHead: Duplo figure head.
+dupFigHips: Duplo figure hips.
+dupFigTorso: Duplo figure torso.
+duploLevCross: Duplo train crossing road block.
+duploTrain: Duplo train rail connection.
+elec: 4.5 electric plug/hole.
+elecDblPin: 4.5 double pin with stud in the middle.
+fabHipBar: Fabland figure hip/leg hinge bar.
+fabLeg: Fabland figure leg.
+ferris: Duplo ferris wheel.
+figBike3Frame: Bike left/right frame.
+frdsHps: Friends hips (gen and fgr).
+glWnd_1x4x6: 1x4x6 window glass.
+glWnd_72x60: Window glass.
+glsCarRoof: Car roof glass.
+gun: Minifig gun fingers connection.
+helmBbl: Minifig bubble helmet.
+hemi-4x4: 4x4 sphere parts.
+hgBrA: Brick hinge (e.g. 3831).
+hgBrB: Brick hinge with pin  (e.g. 652).
+hgBrC: Classic brick hinge (e.g. 3937).
+hgPlA: Hinge plate with the outer clips (e.g. 3597).
+hgPlB: Hinge plate with pin (e.g. 3149e).
+hngHook: Hinge hook.
+horse: Animal horse specific.
+horseHead: Animal horse specific.
+horseRearLeft: Animal horse specific.
+horseRearRight: Animal horse specific.
+hoseReel2x2: 2x2 hose reel.
+hoseReel2x4: 2x2 hose reel.
+ironMask: Minifig iron man mask visor.
+jack: Minifig car jack.
+ladder4207: Ladder.
+lckHng: Lock hinge (e.h. clh2)
+lightStud: Light bulp of light bricks.
+linAct1: Small Linear Actuator Slider.
+linAct2: Big Linear Actuator Slider.
+linearActBody: Technic linear actuator cylinder piston connection.
+magGlass: Minifig magnifying glass.
+magnet: Train magnet.
+mast: Boat mast connection.
+mfSuitCase: Minifig suitcase hinge.
+nudge1: Technic spindle nudged sphere (32494 & 92902).
+nxtc: NXT rj12 connector.
+pfLight: Power functions led.
+pfc: Powerfunction 'wide elec stud'.
+pneuCyl: Pneumatic cylinder extension guide.
+pwrFnc2Plg: Power functions 2 plug/socket.
+rim42_31: See rims.
+rim47_31: See rims.
+sglWhlAxle: Single wheel axle / clips connector.
+sharkHead: Animal shark specific.
+shooter: Spring shooter.
+steerHold1: Technic steering holder (2792 & 2791a).
+steerHub1: Technic steering arm/hub (e.g. 41894 & 41895).
+techBallJnt: Technic ball joint spheres.
+techEngine: Technic engine block/cylinder head connection.
+techFigElbw: Technic figure elbow.
+techFigFoot: Technic figure foot.
+techFigHips: Technic figure hips.
+techFigKnee: Technic figure knee.
+techFigPel: Technic figure pelvis.
+techFigVis: Technic figure visor clip.
+techFlexEnd: Pen at flex-system wire ends.
+techGearRack: Technic bendable gearrack connection.
+techTrnTbl60: Technic turntable #60.
+techWhlCon1: Click wheel connection (e.g. wheel 2998 + clip 2999).
+trainAxle: Assembled train axle.
+trainMagnet: Train magnet cylinder.
+trainMagnetClip: Train magnet clip.
+traintrk: 9V train track connection.
+turnTablePin: Turntable pin m/f.
+turntable5x5: Turntable connection.
+uniJnt: Universal joint connection.
+visor: Minifig visor.
+win-1-2-266: Specific window/glass connection.
+win-1-2-2: Specific window/glass connection.
+win-1-4-3: Specific window/glass connection.
+winDome: Windscreen dome connection.
+winTrain: Train glass.
+wpAxHole: Wheel pin with small wings.
+z28Turntable: Turntable connection.
+z56TurnTableT1: Turntable connection.
+
+
+
+--tyre/rimms are combinations of their shape parameters, in hopes they automatically perform 1 on n fitting without the need to resource all combo's.--
+rimAA-BB: where AA is the smallest radius (where rubber meets metal), and BB is the distance between the ridges which keeps the tyre in between them, taken from the rubber insides.
+
+
+------======common meta snippets======------
+0.5 connhole (there is no prim for it)
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=true] [slide=true]
+
+
+Technic ballpoint
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 12.7] [group=techBallJnt][match=size] [placement=free]
+
+
+Technic ballsocket
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 12.7] [group=techBallJnt][match=size] [placement=free]
+
+
+Towball balljoint
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 8] [match=size] [placement=free]
+
+
+Towball socket
+0 !LDCAD SNAP_GEN [gender=F] [bounding=sph 8] [match=size] [placement=free]

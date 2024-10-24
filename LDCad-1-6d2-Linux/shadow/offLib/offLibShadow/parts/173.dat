@@ -1,0 +1,7 @@
+0 LDCad info for "~Technic Gearbox 20:1 Reduction Input Shaft"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 //pos +1 so clients 'bump' the casing.
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 3   A 6 17] [slide=true] [pos=0 0 20] [ori=1 0 0 0 0 -1 0 1 0]

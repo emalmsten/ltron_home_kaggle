@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Spiked Ball Half"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 20] [slide=true] [pos=0 -40 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 20] [slide=true] [ori=-1 0 0 0 1 0 0 0 -1]

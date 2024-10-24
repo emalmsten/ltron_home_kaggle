@@ -1,0 +1,8 @@
+0 LDCad info for "Panel  3 x  3 x  3"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-23 32 18]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-3 32 -2]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=17 32 -22]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 -1 0 1 0 1 0 0]

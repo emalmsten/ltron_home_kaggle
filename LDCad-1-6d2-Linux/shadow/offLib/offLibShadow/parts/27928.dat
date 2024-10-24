@@ -1,0 +1,6 @@
+0 LDCad info for "Plate  2 x  2 with One Stud with Cut Corners and Raised Tab"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-10 8 0] [grid=1 C 2 0 20]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

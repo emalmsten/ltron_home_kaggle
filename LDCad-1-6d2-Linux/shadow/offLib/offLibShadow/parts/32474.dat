@@ -1,0 +1,5 @@
+0 LDCad info for "Technic Ball Joint with Axlehole Blind"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=M] [bounding=sph 12.7] [match=size] [placement=free] [group=techBallJnt]

@@ -1,0 +1,6 @@
+0 LDCad info for "~Minifig Hat Bicorne without Front and Back (Obsolete)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 9]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 8] [pos=13 -13 0] [ori=-1 0 0 0 -1 0 0 0 1]

@@ -1,0 +1,6 @@
+0 LDCad info for "Magnet Holder Tile  2 x  2 with Short Arms"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=magnet] [genderOfs=F] [seq=4 32 4] [radius=2] [pos=0 -6.5 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0] [grid=C 2 C 2 20 20]

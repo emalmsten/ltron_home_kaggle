@@ -1,0 +1,7 @@
+0 LDCad info for "~Duplo Slope  2 x  3 x  2 without Slope, Back and Side Faces"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 92] [pos=0 96 0] [grid=C 2 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 60] [pos=0 96 -40] [grid=C 2 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 26] [pos=0 96 -80] [grid=C 2 1 40 0]

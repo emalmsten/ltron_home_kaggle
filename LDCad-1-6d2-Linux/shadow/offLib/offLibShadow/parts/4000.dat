@@ -1,0 +1,6 @@
+0 LDCad info for "Ladder  4 x 15.6 with Semi-Circular Pivot"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=40] [radius=4] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Z]

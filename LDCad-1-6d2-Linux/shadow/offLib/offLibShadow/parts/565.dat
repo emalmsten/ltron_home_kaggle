@@ -1,0 +1,7 @@
+0 LDCad info for "~Electric Motor Case  4 x 12 x  3.333 Type 1 - Base"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 80 0] [grid=C 4 C 8 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 56 -100] [grid=C 4 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 56 100] [grid=C 4 C 2 20 20]

@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Gear 14 Tooth Bevel"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 9 3   A 6 4] [slide=true] [pos=0 0 3] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 12 3] [slide=true] [ori=1 0 0 0 0 1 0 -1 0]

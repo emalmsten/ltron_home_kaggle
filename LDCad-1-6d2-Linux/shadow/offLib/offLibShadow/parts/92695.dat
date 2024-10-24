@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Linear Actuator  4 x  1 x  1 Axle Actuator"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=A 6 20   R 6 3   R 8 2   R 3 76] [slide=true] [pos=0 0 -20] [ori=1 0 0 0 0 1 0 -1 0]

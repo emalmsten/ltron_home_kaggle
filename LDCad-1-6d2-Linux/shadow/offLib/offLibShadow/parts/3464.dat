@@ -1,0 +1,5 @@
+0 LDCad info for "Wheel Centre with Stub Axles"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [match=group] [ori=0 -1 0 0 0 1 -1 0 0]

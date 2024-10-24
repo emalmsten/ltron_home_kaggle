@@ -1,0 +1,6 @@
+0 LDCad info for "~Duplo Brick  2 x  4 with Holes Bottom"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [pos=0 48 0] [grid=C 4 C 2 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 12 2   R 9 76   R 12 2] [center=true] [pos=0 24 0] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 3 1 40 0]

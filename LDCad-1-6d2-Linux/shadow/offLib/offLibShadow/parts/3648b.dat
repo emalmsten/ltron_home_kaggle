@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Gear 24 Tooth with Single Axle Hole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 20] [center=true] [slide=true] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [center=true] [slide=true] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 2 C 2 20 20]

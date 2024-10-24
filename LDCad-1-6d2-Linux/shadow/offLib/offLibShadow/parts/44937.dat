@@ -1,0 +1,6 @@
+0 LDCad info for "Constraction Shield  5 x  5 with Dual Flames"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [ID=axle]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 20] [slide=true] [ori=1 0 0 0 -1 0 0 0 -1]

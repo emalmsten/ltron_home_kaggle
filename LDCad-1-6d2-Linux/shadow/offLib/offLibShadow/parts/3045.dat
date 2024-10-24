@@ -1,0 +1,8 @@
+0 LDCad info for "Slope Brick 45  2 x  2 Double Convex"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 24 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 24 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=20 24 -10] [grid=1 C 2 0 20]
+0 !LDCAD MIRROR_INFO [counterPart=self] [oriCor=0 0 1 0 1 0 -1 0 0]

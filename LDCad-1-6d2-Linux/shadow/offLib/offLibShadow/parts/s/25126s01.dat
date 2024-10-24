@@ -1,0 +1,6 @@
+0 LDCad info for "~Minifig Baby Body without Hands and Torso Front"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 8] [slide=true] [pos=0 -24 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 6]

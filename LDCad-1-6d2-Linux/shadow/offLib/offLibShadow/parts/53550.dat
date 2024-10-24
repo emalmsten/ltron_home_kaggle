@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Bionicle Weapon Ball Shooter Magazine"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 20] [slide=true] [pos=0 30 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [ori=0 1 0 -1 0 0 0 0 1]

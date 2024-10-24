@@ -1,0 +1,11 @@
+0 LDCad info for "Slope Brick Curved  8 x  8 x  2 Inverted Double"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 48 0] [grid=C 4 C 8 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [slide=true] [pos=0 48 -30] [grid=1 C 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8   R 8 4] [slide=true] [pos=0 48 30] [grid=1 C 2 0 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2   S 6 4] [slide=true] [pos=0 34 80] [ori=1 0 0 0 0 -1 0 1 0] [grid=C 3 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   R 8 2   S 6 4] [slide=true] [pos=0 34 -80] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 3 1 20 0]

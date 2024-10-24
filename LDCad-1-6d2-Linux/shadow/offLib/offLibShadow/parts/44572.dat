@@ -1,0 +1,6 @@
+0 LDCad info for "Hinge Panel  2 x  4 x  3.333 Locking"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=-20 66 -20] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [pos=20 66 -20] [ori=0 -1 0 1 0 0 0 0 1]

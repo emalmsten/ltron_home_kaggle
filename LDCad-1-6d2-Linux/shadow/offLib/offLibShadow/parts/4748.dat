@@ -1,0 +1,9 @@
+0 LDCad info for "Brick  2 x  4 with Coupling, Female"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Anti studs
+0 !LDCAD SNAP_INCL [ref=s\3001s01.dat]
+
+0 //Hole (NOTE: this should be oval, maybe needs a new snapshape one day. For now simulate by placing 3 holes in line)
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 8] [slide=true] [pos=0 12 -41] [grid=1 C 3 0 5]

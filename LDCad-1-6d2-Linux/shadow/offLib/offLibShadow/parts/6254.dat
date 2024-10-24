@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Food Ice Cream Scoops"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5   R 4 10] [slide=true] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 5] [pos=0 3 0] [ori=1 0 0 0 -1 0 0 0 -1]

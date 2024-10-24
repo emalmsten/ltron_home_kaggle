@@ -1,0 +1,6 @@
+0 LDCad info for "Duplo Baseplate 12 x 16"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 12 11] [grid=C 16 C 10 40 40]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 12 11] [pos=0 0 -220] [grid=C 14 2 40 440]

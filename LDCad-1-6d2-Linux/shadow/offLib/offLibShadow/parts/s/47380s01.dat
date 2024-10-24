@@ -1,0 +1,6 @@
+0 LDCad info for "~Figure Duplo Arm Left Hand and Connector"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=dupFigArm] [gender=M] [caps=one] [secs=R 11 15] [pos=2 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CLP [radius=6.5] [length=23] [center=true] [pos=26 42 0] [ori=-1 0 0 0 0 -1 0 -1 0]

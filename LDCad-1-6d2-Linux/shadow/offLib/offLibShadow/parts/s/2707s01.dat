@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Action Figure Head Half without Face"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_GEN [gender=M] [bounding=sph 10] [match=size] [placement=free] [mirror=none]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 9.846099999999999 26] [pos=0 -42 0] [ori=1 0 0 0 -1 0 0 0 -1] [mirror=none]

@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Helmet Rangefinder for SW Clone Trooper Helmet"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 2.5 25] [slide=true] [pos=-2.5 -2 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 2 2.75] [slide=true] [ori=0 -1 0 1 0 0 0 0 1]

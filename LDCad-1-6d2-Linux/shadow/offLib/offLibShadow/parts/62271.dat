@@ -1,0 +1,5 @@
+0 LDCad info for "~Technic Linear Actuator  8 x  2 x  2 Base"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [group=linearActBody] [gender=M] [caps=one] [secs=R 15 20] [pos=0 -20 10] [ori=0 0 -1 -1 0 0 0 1 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Brick  1 x  4 x  2 Bellshaped with Headlights"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 10] [pos=0 48 0] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 11 5] [pos=0 20 -10] [ori=1 0 0 0 0 -1 0 1 0] [grid=C 2 1 60 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 6   R 6 10] [pos=0 20 -15] [ori=1 0 0 0 0 1 0 -1 0] [grid=C 2 1 60 0]

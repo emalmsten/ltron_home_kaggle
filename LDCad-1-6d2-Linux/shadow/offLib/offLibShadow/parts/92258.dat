@@ -1,0 +1,9 @@
+0 LDCad info for "Figure Friends Hair Long Wavy Partially Tied Back"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //top
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 7] [slide=true] [pos=0 -8.5 0.86] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //back
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 2 6] [slide=true] [pos=0 7.4 19] [ori=1 0 0 0 0 -1 0 1 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Magnet Holder  2 x  3"
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_FGR [group=magnet] [genderOfs=F] [seq=4 32 4] [radius=2] [pos=0 9 -26] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 10 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 24 0]

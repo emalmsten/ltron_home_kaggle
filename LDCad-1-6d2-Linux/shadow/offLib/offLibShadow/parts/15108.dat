@@ -1,0 +1,7 @@
+0 LDCad info for "Plate  2 x  2 with Peghole, Axlehole, Hinge and Rubberband Slots"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [ID=connhole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 18   S 6 4   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 10 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 8] [pos=-10 -6 40] [ori=0 -1 0 1 0 0 0 0 1]

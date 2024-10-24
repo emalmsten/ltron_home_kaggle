@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Panel Fairing Smooth #3 (Medium)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 8 2   R 6 16   S 6.5 2] [pos=0 10 80]
+0 !LDCAD MIRROR_INFO [counterPart=64391.dat]

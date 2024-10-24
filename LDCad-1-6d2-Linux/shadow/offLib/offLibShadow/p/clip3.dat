@@ -1,0 +1,5 @@
+0 LDCad info for "Clip Horizontal with Parallel Sides"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [pos=0 2 0] [ori=0 1 0 -1 0 0 0 0 1]

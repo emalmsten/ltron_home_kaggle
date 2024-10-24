@@ -1,0 +1,6 @@
+0 LDCad info for "~Duplo Support  2 x  4 x  3 Base"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 12] [grid=C 4 C 2 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 9 72] [center=true] [slide=true] [pos=0 -72 0] [ori=1 0 0 0 0 1 0 -1 0]

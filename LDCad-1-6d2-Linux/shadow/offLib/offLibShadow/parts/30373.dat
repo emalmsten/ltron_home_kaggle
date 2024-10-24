@@ -1,0 +1,7 @@
+0 LDCad info for "Slope Brick 65  6 x  6 x  2 Inverted Quadruple"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 48 0] [grid=C 4 C 4 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 20   R 8 6] [slide=true] [pos=0 46 0] [grid=C 3 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 20   R 8 6] [slide=true] [pos=0 46 0] [grid=1 C 2 0 40]

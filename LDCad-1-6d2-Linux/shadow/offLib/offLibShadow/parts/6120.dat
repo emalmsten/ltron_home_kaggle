@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Ski 4L with Hinge"
+0 Author: Jason McReynolds
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 7] [pos=0 3 -2]
+0 !LDCAD SNAP_FGR [genderOfs=M] [seq=4 4 4] [radius=4] [pos=0 -9 12] [ori=0 1 0 -1 0 0 0 0 1]

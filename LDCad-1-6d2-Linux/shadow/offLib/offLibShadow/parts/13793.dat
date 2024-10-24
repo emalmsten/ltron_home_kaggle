@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Welding Gas Torch with Hose and Gas Cylinder Top"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 10] [slide=true] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

@@ -1,0 +1,6 @@
+0 LDCad info for "Technic Turntable 28 Tooth Top"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=20 -20 -10] [ori=-1 0 0 0 0 -1 0 -1 0] [grid=2 1 40 0]
+0 !LDCAD SNAP_CYL [group=z28Turntable] [gender=F] [caps=one] [secs=R 27 15] [pos=0 10 0] [ori=-1 0 0 0 1 0 0 0 -1]

@@ -1,0 +1,7 @@
+0 LDCad info for "~Brick  2 x  2 Arm Holder Upper Part with Hole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //This shared the arm holes with 792.dat, so don't do them again here.
+0 //Hole for head
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 7 13] [ori=-1 0 0 0 -1 0 0 0 1]

@@ -1,0 +1,7 @@
+0 LDCad info for "~Glass for Window  1 x  4 x  6 without Front"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=M] [seq=132] [radius=4] [pos=-32.5 66 0]
+0 !LDCAD SNAP_FGR [group=door] [genderOfs=M] [seq=132] [radius=4] [pos=32.5 66 0]

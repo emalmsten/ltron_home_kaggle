@@ -1,0 +1,6 @@
+0 LDCad info for "Bar  1 x  4 x  2.5 Grille"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 28] [center=true] [slide=true] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 28] [center=true] [slide=true] [pos=0 -30 -8] [ori=0 1 0 -1 0 0 0 0 1]

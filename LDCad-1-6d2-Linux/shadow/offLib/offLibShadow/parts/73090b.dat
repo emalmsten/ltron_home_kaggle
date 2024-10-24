@@ -1,0 +1,6 @@
+0 LDCad info for "Brick  2 x  6 x  2 Weight with Plate Bottom"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Same as plate
+0 !LDCAD SNAP_INCL [ref=3795.dat] [pos=0 40 0]

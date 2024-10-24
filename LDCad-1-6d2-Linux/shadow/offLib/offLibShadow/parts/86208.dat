@@ -1,0 +1,9 @@
+0 LDCad info for "Minifig Torch without Grooves"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 4   R 10 8   R 8 4] [slide=true] [pos=0 0 -4] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 16] [slide=true] [pos=0 4 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 22] [slide=true] [pos=0 0 4] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 5] [slide=true] [pos=0 0 -20] [ori=1 0 0 0 0 1 0 -1 0]

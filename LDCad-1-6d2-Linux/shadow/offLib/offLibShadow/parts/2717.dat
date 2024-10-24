@@ -1,0 +1,11 @@
+0 LDCad info for "Technic Seat  3 x  2 Base"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 0 20] [ori=-1 0 0 0 1 0 0 0 -1] [grid=2 3 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-10 -18 30] [ori=1 0 0 0 0 -1 0 1 0] [grid=2 2 20 20]
+0 //Note mid aStuds need mul con match in order to prevent unwanted snapping
+0 //!LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 -28 30] [ori=1 0 0 0 0 -1 0 1 0]
+0 //!LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 0 10] [ori=-1 0 0 0 1 0 0 0 -1] [grid=1 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 14] [pos=40 -22 10] [ori=0 1 0 1 0 0 0 0 -1] [grid=1 2 0 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 14] [pos=-40 -22 10] [ori=0 -1 0 -1 0 0 0 0 -1] [grid=1 2 0 20]

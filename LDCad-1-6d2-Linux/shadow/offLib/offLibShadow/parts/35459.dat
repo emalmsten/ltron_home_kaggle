@@ -1,0 +1,6 @@
+0 LDCad info for "Plate  1 x  3 Inverted with Bar Hole"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 12] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=0 -4 0] [ori=-1 0 0 0 -1 0 0 0 1] [grid=C 2 1 40 0]

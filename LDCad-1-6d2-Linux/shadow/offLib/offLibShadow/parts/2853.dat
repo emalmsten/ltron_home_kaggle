@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Engine Crankshaft"
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR [ID=axleHole]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=A 6 10] [pos=0 0 -20] [ori=0 0 1 -1 0 0 0 -1 0]
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

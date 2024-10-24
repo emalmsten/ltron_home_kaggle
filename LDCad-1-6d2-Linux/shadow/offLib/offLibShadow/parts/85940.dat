@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Beam  2 with Angled Bar"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 20] [slide=true] [pos=7.1421 0 -6.8579] [ori=0 -0.70710678 0.70710678 1 0 0 0 0.70710678 0.70710678]
+ 
+0 !LDCAD MIRROR_INFO [baseFlip=Y]

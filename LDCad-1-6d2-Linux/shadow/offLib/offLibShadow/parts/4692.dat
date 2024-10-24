@@ -1,0 +1,6 @@
+0 LDCad info for "~Technic Pneumatic Distribution Block  2 x  4 Bottom"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 //Antistuds
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 6 0] [grid=C 4 C 2 20 20]

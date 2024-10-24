@@ -1,0 +1,6 @@
+0 LDCad info for "Projectile Launcher  4 x  2 x  1 with Bottom Axle"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CLEAR 
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=A 6 20] [slide=true] [pos=0 10 0] [ori=1 0 0 0 -1 0 0 0 -1]

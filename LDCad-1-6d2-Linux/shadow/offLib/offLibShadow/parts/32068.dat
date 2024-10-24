@@ -1,0 +1,8 @@
+0 LDCad info for "Technic Cross Block 1 x 3 (Axle/None/Pin)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 10 20] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 3] [pos=0 0 20]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 3] [pos=0 20 20] [ori=1 0 0 0 -1 0 0 0 -1]

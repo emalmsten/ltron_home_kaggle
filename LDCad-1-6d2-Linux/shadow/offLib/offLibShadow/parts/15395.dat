@@ -1,0 +1,7 @@
+0 LDCad info for "Dome  2 x  2 Inverted with Stud and Tube"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 8 5.4] [pos=0 2.6 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5.4] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 16 4] [pos=0 -16 0]

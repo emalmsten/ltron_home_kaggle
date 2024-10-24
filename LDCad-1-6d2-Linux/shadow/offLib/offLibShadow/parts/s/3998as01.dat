@@ -1,0 +1,8 @@
+0 LDCad info for "~Tow Crane  2 x  4 x  3 Hook Common Geometry"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !HISTORY 2020-05-22 [anathema] Added 4R snap
+
+0 !LDCAD SNAP_CLP [radius=3.6] [length=16] [center=true] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CLP [radius=4] [length=16] [center=true] [ori=0 1 0 0 0 1 1 0 0]

@@ -1,0 +1,11 @@
+0 LDCad info for "Wheel Rim 12.7 x 30 Stepped"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=0 0 8] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=0 -20 8] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=-17.32 -10 8] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=17.32 10 8] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=-17.32 10 8] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=0 20 8] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 16] [pos=17.32 -10 8] [ori=1 0 0 0 0 -1 0 1 0]

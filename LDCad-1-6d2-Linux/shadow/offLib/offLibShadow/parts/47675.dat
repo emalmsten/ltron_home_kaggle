@@ -1,0 +1,6 @@
+0 LDCad info for "Container Storage X-Pod Top (Needs Work)"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 80 8] [pos=0 26 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=two] [secs=R 6 10   A 6 16   R 8 4] [slide=true] [pos=0 26 0]

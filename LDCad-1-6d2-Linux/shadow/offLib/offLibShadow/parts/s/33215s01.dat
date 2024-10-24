@@ -1,0 +1,6 @@
+0 LDCad info for "~Roof  6 x  8 x  9 Half Pyramid - Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=70 216 -30] [grid=1 C 7 0 10]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=20 216 -100] [grid=C 3 1 10 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Animal Tail"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 10] [ori=0 0 -1 -1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=0 64 40] [ori=0 0 1 -1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=0 64 44] [ori=0 0 -1 -1 0 0 0 1 0]

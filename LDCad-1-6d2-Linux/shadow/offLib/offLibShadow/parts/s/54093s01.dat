@@ -1,0 +1,13 @@
+0 LDCad info for "~Wing 56 x 20 - Half"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-540 16 -160] [grid=C 2 C 4 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-380 16 -100] [grid=C 2 C 6 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-220 16 -20] [grid=C 2 C 6 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-120 16 -80] [grid=C 2 C 4 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [pos=-30 16 -130] [grid=C 4 C 3 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 12] [pos=-30 16 130] [grid=C 4 C 3 20 20]
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 12] [pos=-70 16 0] [grid=1 C 10 0 20]

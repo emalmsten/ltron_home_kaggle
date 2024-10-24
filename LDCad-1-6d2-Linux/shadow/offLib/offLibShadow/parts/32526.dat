@@ -1,0 +1,7 @@
+0 LDCad info for "Technic Beam  3 x  5 Bent 90"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=0 0 60] [grid=1 2 0 20]
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=20 0 80]
+0 !LDCAD MIRROR_INFO [baseFlip=Y]
